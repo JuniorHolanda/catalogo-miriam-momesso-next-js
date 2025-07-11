@@ -4,9 +4,9 @@ import Link from 'next/link';
 import slugify from 'slugify';
 import cn from 'classnames';
 import BtnInteractive from '../btnInteractive';
-import animationLike from '../../../animation/animation-like.json';
-import animationFavorite from '../../../animation/animation-favorite.json';
-import animationKit from '../../../animation/animation-kit.json';
+import animationLike from '@/animation/animation-like.json';
+import animationFavorite from '@/animation/animation-favorite.json';
+import animationKit from '@/animation/animation-kit.json';
 
 type CardSearchProps = {
 	product: {

@@ -1,8 +1,8 @@
-import { likeProduct } from '../../../services/productsMomessoServices';
+import { likeProduct } from '@/services/productsMomessoServices';
 import { useEffect, useRef, useState } from 'react';
 import Lottie from 'react-lottie-player';
 import type { AnimationItem } from 'lottie-web';
-import { setItemLocalStorage } from '../../utils/localStorage/localSorage';
+import { setItemLocalStorage } from '@/utils/localStorage/localSorage';
 
 type BtnInteractiveProps = {
     productId: string;

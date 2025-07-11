@@ -14,21 +14,33 @@ import { LiaEyeSolid } from 'react-icons/lia';
 import Link from 'next/link';
 import CardSearch from '../CardSearch';
 import slugify from 'slugify';
-import MediaQuery from '../../utils/MediaQuery/MediaQuery';
+import MediaQuery from '@/utils/MediaQuery/MediaQuery';
 import LoaderData from '../Loader';
-import Banners from '../../data/Banners.json';
-import { getProducts } from '../../services/productsMomessoServices';
+import Banners from '@/data/Banners.json';
+import { getProducts } from '@/services/productsMomessoServices';
+import { Product } from "@/interface/product";
 
-const CategorySection = React.forwardRef(({ category, text }, ref) => {
-	const [products, setProducts] = useState([]);
+type CategorySectionProps = {
+	category: string;
+	text: string;
+};
+
+
+
+const CategorySection = React.forwardRef<HTMLDivElement, CategorySectionProps>(({ category, text }, ref) => {
+	const [products, setProducts] = useState<Product[]>([]);
 
 	useEffect(() => {
 		async function fetchProducts() {
 			try {
 				const response = await getProducts();
 				setProducts(response);
-			} catch (error) {
-				console.log('Erro ao carregar produtos:', error.message);
+			} catch (error: unknown) {
+				if (error instanceof Error) {
+					console.log('Erro ao carregar produtos:', error.message);
+				} else {
+					console.log('Erro desconhecido:', error);
+				}
 			}
 		}
 		fetchProducts();
@@ -51,6 +63,7 @@ const CategorySection = React.forwardRef(({ category, text }, ref) => {
 			=== categorySlugified
 		)
 	)
+	
 	const isMobile = MediaQuery('(max-width: 700px)');
 
 	const getSlidesPerView = () => {
@@ -116,7 +129,7 @@ const CategorySection = React.forwardRef(({ category, text }, ref) => {
 				</div>
 				<Link
 					className={styles.btnShowCategory}
-					to={`/category/${slugify(category, {
+					href={`/category/${slugify(category, {
 						lower: true,
 						strict: true,
 						trim: true,

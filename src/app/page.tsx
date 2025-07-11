@@ -1,6 +1,6 @@
 import { useRef } from 'react';
-import CategorySection from '../../components/CategorySection';
-import HeaderSection from '../../components/HeaderSection';
+import CategorySection from '@/app/components/CategorySection';
+import HeaderSection from './components/HeaderSection';
 import DataCardsCategory from '../../data/DataCardsCategory.json';
 import styles from './home.module.scss';
 import CardCategory from '../../components/CardCategory';

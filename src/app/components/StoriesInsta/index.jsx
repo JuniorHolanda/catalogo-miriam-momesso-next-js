@@ -1,4 +1,4 @@
-import dataStories from "../../data/Banners.json";
+import dataStories from "@/data/Banners.json";
 import Stories from "react-insta-stories";
 
 function StoriesInsta({ filter }) {
