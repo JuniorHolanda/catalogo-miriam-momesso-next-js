@@ -3,12 +3,24 @@ import { LiaEyeSolid } from 'react-icons/lia';
 import Link from 'next/link';
 import slugify from 'slugify';
 import cn from 'classnames';
-import BtnInteractive from '../btn/btnInteractive';
-import animationLike from '../../animation/animation-like.json';
-import animationFavorite from '../../animation/animation-favorite.json';
-import animationKit from '../../animation/animation-kit.json';
+import BtnInteractive from '../btnInteractive';
+import animationLike from '../../../animation/animation-like.json';
+import animationFavorite from '../../../animation/animation-favorite.json';
+import animationKit from '../../../animation/animation-kit.json';
 
-const CardSearch = ({ product }) => {
+type CardSearchProps = {
+	product: {
+		_id: string;
+		title: string;
+		category: string[];
+		thunbnail: string;
+		altThunbnail: string;
+		smallText: string;
+		like: number;
+	};
+}
+
+const CardSearch = ({ product }: CardSearchProps) => {
 	const slug = slugify(product.title, { lower: true, strict: true });
 
 	//define a classe do cartão com base na quantidade de like
@@ -51,7 +63,7 @@ const CardSearch = ({ product }) => {
 				</div>
 			</div>
 			<div className={styles.containerThunb}>
-				<img src={product.thunbnail} alt={product.altThunbnail} />
+				<img src={product.thunbnail} alt={product.altThunbnail}/>
 			</div>
 
 			<div className={statusClass}>
@@ -59,7 +71,7 @@ const CardSearch = ({ product }) => {
 					<h2 className={styles.title}>{product.title}</h2>
 					<p className={styles.text}>{product.smallText}</p>
 				</div>
-				<Link to={`/product/${slug}`} className={styles.containerBtn}>
+				<Link href={`/product/${slug}`} className={styles.containerBtn}>
 					<span>
 						<LiaEyeSolid className={styles.icon} />
 						Ver Produto
