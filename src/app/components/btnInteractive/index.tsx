@@ -1,6 +1,7 @@
 import { likeProduct } from '../../../services/productsMomessoServices';
 import { useEffect, useRef, useState } from 'react';
 import Lottie from 'react-lottie-player';
+import type { AnimationItem } from 'lottie-web';
 import { setItemLocalStorage } from '../../utils/localStorage/localSorage';
 
 type BtnInteractiveProps = {
@@ -13,7 +14,8 @@ type BtnInteractiveProps = {
 
 
 const BtnInteractive = ({ productId, icon, isLikeBtn, type, style }: BtnInteractiveProps) => {
-	const animationRef = useRef<any>();
+	
+	const animationRef = useRef<AnimationItem  | null>(null);
 	const animation = icon;
 
 	const [action, setAction] = useState(() => {
@@ -23,25 +25,25 @@ const BtnInteractive = ({ productId, icon, isLikeBtn, type, style }: BtnInteract
 
 	//verifica o valor de action na montagem do componente
 	useEffect(() => {
-		if (action) {
+		if (action && animationRef.current) {
 			const fullframe = animationRef.current.getDuration(true);
 			animationRef.current.goToAndStop(fullframe - 1, true);
 		}
 	}, []);
 
 	//incrementa like no banco, (usar essa função apenas no para likes)
-	async function incLikeDataBase(action) {
+	async function incLikeDataBase(action: boolean): Promise<void> {
 		action ? await likeProduct(productId, 1) : await likeProduct(productId, -1);
 	}
 
 	//incrementa e decrementa dados na localStorage
-	function incLocalStorage(action) {
+	function incLocalStorage(action: boolean) : void {
 		action
 			? setItemLocalStorage(`${type}${productId}`, true)
 			: setItemLocalStorage(`${type}${productId}`, false);
 	}
 	// gerencia backend e localStorage
-	function manipulationData(action) {
+	function manipulationData(action: boolean): void {
 		if (isLikeBtn) {
 			incLikeDataBase(action);
 		}
@@ -49,11 +51,11 @@ const BtnInteractive = ({ productId, icon, isLikeBtn, type, style }: BtnInteract
 	}
 
 	//anima o btn
-	function animationBtn(action) {
-		if (action) {
+	function animationBtn(action: boolean): void {
+		if (action && animationRef.current) {
 			animationRef.current?.setDirection(1);
 			animationRef.current.play();
-		} else {
+		} else if (animationRef.current) {
 			animationRef.current?.setDirection(-1);
 			animationRef.current.play();
 		}
