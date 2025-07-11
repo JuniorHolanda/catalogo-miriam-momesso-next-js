@@ -2,8 +2,8 @@ import styles from './headerSection.module.scss'
 import Link from 'next/link';
 
 type typesHeaderSection = {
-  id: 'string',
-  className: 'string',
+  id?: 'string',
+  className?: 'string',
 }
 
 const HeaderSection = ({id , className}: typesHeaderSection) =>{

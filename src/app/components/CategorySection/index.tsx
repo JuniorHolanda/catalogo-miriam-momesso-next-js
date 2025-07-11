@@ -8,7 +8,7 @@ import 'swiper/css/autoplay';
 import 'swiper/css/effect-fade';
 
 import styles from './category-section.module.scss';
-import StoriesInsta from '../StoriesInsta';
+import StoriesInsta from '../StoriesInsta/StoriesInsta';
 import React, { useEffect, useState } from 'react';
 import { LiaEyeSolid } from 'react-icons/lia';
 import Link from 'next/link';

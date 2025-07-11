@@ -1,0 +1,82 @@
+@use '../../styles/mixins.scss';
+@use '../../styles/variables.scss' as var;
+
+.wrapper {
+	@include mixins.flex($direction: column, $justify: center, $align: center);
+	gap: var.$medium-space;
+	width: 100%;
+
+	.content {
+		@include mixins.flex($justify: center, $align: center);
+		grid-area: 1 / 2 / 2 / 3;
+		width: 100%;
+		gap: var.$small-space;
+
+		.cta {
+			@include mixins.flex($direction: column, $justify: center, $align: start);
+			width: 40%;
+			gap: var.$medium-space;
+			padding: var.$medium-space;
+
+			.title {
+				@include mixins.font(
+					$font: var.$font,
+					$size: var.$bigTitle-2,
+					$weight: 800,
+					$color: var.$dark-color-3
+				);
+			}
+
+			.text {
+				@include mixins.font(
+					$font: var.$font,
+					$size: var.$text,
+					$weight: 400,
+					$color: var.$dark-color-2
+				);
+			}
+
+			.btn {
+				@include mixins.font(
+					$font: var.$font,
+					$size: var.$text,
+					$weight: 600,
+					$color: var.$clear-color-2
+				);
+				text-wrap: nowrap;
+				padding: var.$small-space;
+				border-radius: var.$small-border;
+				cursor: pointer;
+				transition: all 0.3s ease-in-out;
+				background-color: var.$highlight-2;
+				z-index: 1;
+
+				&:hover {
+					background-color: var.$dark-color-3;
+					color: var.$clear-color-1;
+				}
+			}
+		}
+		.swiper {
+			display: flex;
+			width: 60%;
+
+			.swiperContainer {
+				display: flex;
+				width: 100%;
+				overflow: hidden;
+
+				.containerSwiper {
+					@include mixins.flex($direction: row, $justify: center, $align: center);
+					width: 100%;
+					border-radius: var.$medium-border;
+
+					img {
+						object-fit: cover;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+}
