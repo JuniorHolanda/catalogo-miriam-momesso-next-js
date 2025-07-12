@@ -1,3 +1,5 @@
+'use client';
+
 import { useRef } from 'react';
 import CategorySection from '@/app/components/CategorySection';
 import HeaderSection from './components/HeaderSection';

@@ -1,0 +1,50 @@
+//color 60%
+$highlight-2: #275af2;
+$medium-1: #8daef2;
+
+//color 30%
+$special-highlight: #0d0630;
+
+//color 10%
+$highlight-1: #f29422;
+$medium-2: #f2ae2e;
+
+$clear-color-1: #ffffff;
+$clear-color-2: #ededed;
+$clear-color-3: #dbdbdb;
+
+$dark-color-1: #161616;
+$dark-color-2: #2d2c3f;
+$dark-color-3: #0b0a14;
+
+//font
+$font: 'Inter', serif;
+
+//font-size
+$smallTitle: clamp(1em, 1vw, 2em);
+$bigTitle-1: clamp(3em, 7vw, 15em);
+$bigTitle-2: clamp(2em, 4vw, 5em);
+$bigTitle-3: clamp(1em, 2vw, 3em);
+
+$micro-text: clamp(0.5em, 0.5vw, 1em);
+$small-text: clamp(0.7em, 0.7vw, 1em);
+$text: clamp(1em, 1vw, 1em);
+$medium-text: clamp(1em, 1.5vw, 1.5em);
+
+//spaces
+$slim-space: 3px;
+$micro-small-space: 0.5em;
+$small-space: 1em;
+
+$micro-medium-space: 1.5em;
+$medium-space: 2em;
+
+$micro-large-space: 2.5em;
+$large-space: 3em;
+
+//bordas e border-radius
+$slim-border: 7px;
+$micro-small-border: 2px;
+$small-border: 1em;
+$medium-border: 2em;
+$large-border: 3em;

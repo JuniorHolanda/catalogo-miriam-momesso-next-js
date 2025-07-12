@@ -1,5 +1,7 @@
+'use client';
+
 import { useState } from 'react';
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 import styles from './SearchBarDesktop.module.scss';
 import { FaSearch } from 'react-icons/fa';
 import category from '@/data/DataCardsCategory.json';

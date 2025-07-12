@@ -1,0 +1,45 @@
+@use 'variables' as var;
+
+@mixin font ($font: null, $size: null, $weight: null, $color: null, $style: null) {
+  @each $property, $value in (
+      font-family: $font,
+      font-size: $size,
+      font-weight: $weight,
+      color: $color,
+      font-style: $style,
+  ) {
+      @if $value != null {
+        #{$property}: $value;
+    }
+  }
+}
+
+@mixin flex ($direction: null, $justify: null, $align: null) {
+  @each $property, $value in (
+      display: flex,
+      flex-direction: $direction,
+      justify-content: $justify,
+      align-items: $align,
+  ) {
+      @if $value != null {
+          #{$property}: $value
+      }
+  }
+}
+
+$breakpoints: (
+  micro: 500px,
+  small: 700px,
+  medium: 1000px,
+  large: 1200px
+);
+
+@mixin min-width($size) {
+  @if not map-has-key($breakpoints, $size) {
+    @error "Breakpoint '#{$size}' não encontrado. Valores permitidos: #{map-keys($breakpoints)}.";
+  }
+
+  @media (min-width: map-get($breakpoints, $size)) {
+    @content;
+  }
+}
