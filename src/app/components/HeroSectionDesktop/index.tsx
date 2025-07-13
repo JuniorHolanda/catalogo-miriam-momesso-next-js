@@ -1,3 +1,4 @@
+'use client';
 import styles from './heroSectionDesktop.module.scss';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -11,12 +12,17 @@ import 'swiper/css/effect-fade';
 
 import dataHoliday from '@/data/holyDay.json';
 import Holiday from '../HolidaysCard';
-
+import FavoriteSection from '../../components/FavoriteSection';
 
 
 const HeroSectionDesktop = () => {
+	const allKeyStorage = Object.keys(localStorage);
+	const favoriteKeys = allKeyStorage.filter((key) => key.includes('favorite'));
+	const productId = favoriteKeys.map((key) => key.replace('favorite', ''));
+
 	return (
 		<section className={styles.wrapper}>
+			{productId.length >= 5 && <FavoriteSection listId={productId} />}
 			<div className={styles.content}>
 				<div className={styles.cta}>
 					<h2 className={styles.title}>Confira nossas sugestões para datas e eventos</h2>

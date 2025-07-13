@@ -1,3 +1,4 @@
+'use client';
 import { likeProduct } from '@/services/productsMomessoServices';
 import { useEffect, useRef, useState } from 'react';
 import Lottie from 'react-lottie-player';
@@ -5,17 +6,17 @@ import type { AnimationItem } from 'lottie-web';
 import { setItemLocalStorage } from '@/utils/localStorage/localSorage';
 
 type BtnInteractiveProps = {
-    productId: string;
-    icon: object;
-    isLikeBtn: boolean;
-    type: string; 
-    style: string;
+	productId: string;
+	icon: object;
+	isLikeBtn: boolean;
+	type: string;
+	style: string;
 }
 
 
 const BtnInteractive = ({ productId, icon, isLikeBtn, type, style }: BtnInteractiveProps) => {
-	
-	const animationRef = useRef<AnimationItem  | null>(null);
+
+	const animationRef = useRef<AnimationItem | null>(null);
 	const animation = icon;
 
 	const [action, setAction] = useState(() => {
@@ -37,7 +38,7 @@ const BtnInteractive = ({ productId, icon, isLikeBtn, type, style }: BtnInteract
 	}
 
 	//incrementa e decrementa dados na localStorage
-	function incLocalStorage(action: boolean) : void {
+	function incLocalStorage(action: boolean): void {
 		action
 			? setItemLocalStorage(`${type}${productId}`, true)
 			: setItemLocalStorage(`${type}${productId}`, false);

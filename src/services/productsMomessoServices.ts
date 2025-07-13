@@ -7,23 +7,20 @@ export async function getProducts() {
 		const response = await axios.get(API_URL);
 		return response.data;
 	} catch (error) {
-		console.error('Erro ao buscar produtos:', error.message);
-		throw error; // repassa o erro para quem chamou
+		console.error('Erro ao buscar produtos:', (error as Error).message);
+		return []; // repassa o erro para quem chamou
 	}
 }
 
 // Requisição específica para likes
-export async function likeProduct(productId, value) {
+export async function likeProduct(productId: string, value: number) {
 	try {
 		const response = await axios.patch(`${API_URL}/${productId}/like`, {
 			like: value,
 		});
 		return response.data;
 	} catch (error) {
-		console.error(
-			'Erro ao atualizar like:',
-			error.response?.data || error.message
-		);
-		throw error;
+		console.error('Erro ao atualizar o like:', (error as Error).message);
+		return [];
 	}
 }

@@ -1,3 +1,5 @@
+'use client';
+
 import styles from './cardSearch.module.scss';
 import { LiaEyeSolid } from 'react-icons/lia';
 import Link from 'next/link';
@@ -63,7 +65,7 @@ const CardSearch = ({ product }: CardSearchProps) => {
 				</div>
 			</div>
 			<div className={styles.containerThunb}>
-				<img src={product.thunbnail} alt={product.altThunbnail}/>
+				<img src={product.thunbnail} alt={product.altThunbnail} />
 			</div>
 
 			<div className={statusClass}>

@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import  "./globals.scss";
+import "./globals.scss";
+import { isMobileUserAgent } from '@/utils/isMobileUserAgent/isMobileUserAgent';
+import { headers } from 'next/headers';
+import NavBarDesktop from './components/NavBarDesktop'
+import NavBarMobile from "./components/NavBarMobile";
 
-const inter = Inter ({
+const inter = Inter({
   weight: ["100", "300", "600", "900"],
   style: ["normal", "italic"],
   subsets: ["latin"]
@@ -18,10 +22,23 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
+  let isMobile = null;
+
+  async function getViewPort() {
+    const headersList = await headers();
+    const userAgent = headersList.get('user-agent') || '';
+    isMobile = isMobileUserAgent(userAgent);
+  }
+
+  getViewPort()
+
   return (
     <html lang="pt-br">
       <body className={`${inter.className}`}>
+        {!isMobile && <NavBarDesktop />}
         {children}
+        {isMobile && <NavBarMobile />}
       </body>
     </html>
   );

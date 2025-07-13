@@ -18,7 +18,7 @@ import MediaQuery from '@/utils/MediaQuery/MediaQuery';
 import LoaderData from '../Loader';
 import Banners from '@/data/Banners.json';
 import { getProducts } from '@/services/productsMomessoServices';
-import { Product } from "@/interface/product";
+import { Product } from "@/types/AllTypes";
 
 type CategorySectionProps = {
 	category: string;
@@ -60,10 +60,10 @@ const CategorySection = React.forwardRef<HTMLDivElement, CategorySectionProps>((
 					lower: true,
 					strict: true,
 				})
-			=== categorySlugified
+				=== categorySlugified
 		)
 	)
-	
+
 	const isMobile = MediaQuery('(max-width: 700px)');
 
 	const getSlidesPerView = () => {
@@ -80,7 +80,7 @@ const CategorySection = React.forwardRef<HTMLDivElement, CategorySectionProps>((
 					<StoriesInsta filter={category} />
 				</section>
 			)}
-			
+
 			{/* se não for mobile mostra banner */}
 			{!isMobile && (
 				<section className={styles.containerSwiper}>

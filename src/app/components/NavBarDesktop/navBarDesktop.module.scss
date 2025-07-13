@@ -1,0 +1,228 @@
+@use '../../styles/mixins';
+@use '../../styles/variables.scss' as var;
+@use '../../styles/animation.scss' as animation;
+
+.wrapper {
+  @include mixins.flex($align: center, $justify: center);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  padding: var.$small-space var.$medium-space;
+  background-color: #ededed6c;
+  backdrop-filter: blur(10px);
+
+  .content {
+    @include mixins.flex($direction: row, $align: center, $justify: space-between);
+    width: 100%;
+    height: 10vh;
+    padding: var.$micro-small-space;
+    gap: var.$medium-space;
+    border-radius: var.$medium-border;
+    background-color: var.$highlight-2;
+
+    .btnSubmit {
+      @include mixins.flex($justify: center, $align: center);
+      background-color: var.$highlight-1;
+      width: 20%;
+      height: 100%;
+      cursor: pointer;
+      transition: all ease-in-out 0.3s;
+
+      &:hover {
+        background-color: var.$medium-2;
+      }
+
+      @include mixins.min-width(small) {
+        width: 40%;
+      }
+    }
+
+    .containerLogo {
+      @include mixins.flex($justify: flex start, $align: center);
+      height: fit-content;
+      width: fit-content;
+
+      .logo {
+        object-fit: cover;
+        width: clamp(8em, 9vw, 10em);
+      }
+    }
+
+    .navMenu {
+      @include mixins.flex($justify: flex-start, $align: center);
+      width: 50%;
+      height: 100%;
+      padding: var.$small-space;
+
+      .listMenu {
+        @include mixins.flex();
+        gap: var.$medium-space;
+
+        .containerMenuItem {
+          @include mixins.flex($justify: center, $align: center);
+          position: relative;
+          @include mixins.font(
+            $font: var.$font,
+            $size: var.$small-text,
+            $weight: 500,
+            $color: var.$clear-color-3
+          );
+
+          .menuLink {
+            @include mixins.font(
+              $font: var.$font,
+              $size: var.$text,
+              $weight: 800,
+              $color: var.$clear-color-3
+            );
+            text-transform: uppercase;
+            padding: var.$small-space;
+          }
+
+          .menuList {
+            @include mixins.flex($justify: center, $align: center);
+
+            .menuItem,
+            button,
+            .linkHome {
+              @include mixins.font(
+                $font: var.$font,
+                $size: var.$text,
+                $weight: 800,
+                $color: var.$clear-color-3
+              );
+              text-transform: uppercase;
+              padding: var.$small-space;
+              cursor: pointer;
+            }
+
+            .containerListSubMenu {
+              @include mixins.flex($justify: center, $align: flex-start);
+              gap: var.$large-space;
+              padding: var.$large-space;
+              position: absolute;
+              z-index: 2;
+              top: 90%;
+              left: 0;
+              width: fit-content;
+              height: fit-content;
+              border-radius: var.$small-border;
+              background-color: var.$clear-color-1;
+              opacity: 0;
+              animation: entrance 0.3s ease-in-out forwards;
+
+              .categorySubMenu {
+                @include mixins.flex($direction: column, $justify: center, $align: flex-start);
+                gap: var.$small-space;
+
+                .subCategoryTitle {
+                  @include mixins.font(
+                    $font: var.$font,
+                    $size: var.$bigTitle-3,
+                    $weight: 900,
+                    $color: var.$medium-1
+                  );
+                  padding: var.$micro-small-space 0;
+                  border-bottom: solid 1px var.$clear-color-2;
+                }
+                .containerSubMenu {
+                  @include mixins.flex($direction: column, $justify: center, $align: flex-start);
+                  gap: var.$micro-small-space;
+                  width: 100%;
+
+                  .subMenuItem {
+                    @include mixins.flex($justify: flex-start, $align: center);
+                    background-color: var.$clear-color-2;
+                    transition: all 0.3s ease-in-out;
+                    width: 100%;
+                    border-radius: var.$medium-border;
+
+                    &:hover {
+                      background-color: var.$medium-1;
+                      color: var.$clear-color-1;
+                      transform: translateX(5px);
+                    }
+
+                    .linkSubMenu {
+                      @include mixins.flex($justify: flex-start, $align: center);
+                      @include mixins.font(
+                        $font: var.$font,
+                        $size: var.$text,
+                        $color: var.$dark-color-2,
+                        $weight: 600
+                      );
+                      padding: var.$micro-small-space;
+                      gap: var.$small-space;
+                      cursor: pointer;
+                      width: 100%;
+
+                      .containerImgSubMenu {
+                        width: 30px;
+                        height: 30px;
+                        border-radius: 300px;
+                        overflow: hidden;
+                        background-color: var.$highlight-1;
+
+                        img {
+                          object-fit: cover;
+                          width: 100%;
+                          height: 100%;
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        .containerMenuItem {
+          @include mixins.flex($justify: center, $align: center);
+          padding: var.$micro-small-space;
+          border-radius: var.$small-border;
+          transition: all 0.3s ease-in-out;
+
+          &:hover {
+            background-color: rgba(0, 0, 139, 0.233);
+            opacity: 1;
+          }
+
+          .menuItem {
+            cursor: pointer;
+            @include mixins.font(
+              $font: var.$font,
+              $size: var.$text,
+              $weight: 800,
+              $color: var.$clear-color-3
+            );
+            text-transform: uppercase;
+
+            border-radius: var.$medium-border;
+          }
+        }
+      }
+    }
+
+    .containerSearch {
+      @include mixins.flex($justify: flex-end, $align: center);
+      position: relative;
+      width: 50%;
+      height: 100%;
+
+      input {
+        background-color: white;
+        padding: var.$small-space;
+        border-radius: var.$medium-border;
+      }
+      label {
+        opacity: 0;
+        position: absolute;
+      }
+    }
+  }
+
+  .containerInpt {
+    height: 100%;
+  }
+}

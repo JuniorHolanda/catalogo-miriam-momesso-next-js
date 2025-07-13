@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+'use client';
+import { useEffect, useState } from 'react';
 
 const MediaQuery = (query) => {
   const [matches, setMatches] = useState(false);
@@ -8,8 +9,8 @@ const MediaQuery = (query) => {
     const listener = () => setMatches(media.matches);
 
     listener(); // verifica ao montar
-    media.addEventListener("change", listener);
-    return () => media.removeEventListener("change", listener);
+    media.addEventListener('change', listener);
+    return () => media.removeEventListener('change', listener);
   }, [query]);
 
   return matches;

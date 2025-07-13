@@ -1,3 +1,5 @@
+'use client';
+
 import styles from './favoriteSection.module.scss';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectFade } from 'swiper/modules';
@@ -12,7 +14,7 @@ import { getProducts } from '@/services/productsMomessoServices';
 import { useState, useEffect } from 'react';
 import CardSearch from '../CardSearch';
 import MediaQuery from '@/utils/MediaQuery/MediaQuery';
-import { Product } from '@/interface/product';
+import { Product } from '@/types/AllTypes';
 
 type FavoriteSectionProps = {
 	style?: string;
@@ -22,7 +24,7 @@ type FavoriteSectionProps = {
 const FavoriteSection = ({ style, listId }: FavoriteSectionProps) => {
 	const isMobile = MediaQuery('(max-width: 700px)');
 	const [products, setProducts] = useState<Product[]>([]);
-	
+
 	useEffect(() => {
 		async function fetchProducts() {
 			try {

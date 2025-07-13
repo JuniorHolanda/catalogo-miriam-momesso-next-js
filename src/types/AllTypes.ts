@@ -12,3 +12,23 @@ export type Product = {
     studioBrin: string[];
     like: number;
 };
+
+export type Category = {
+  id: number;
+  img: string;
+  altImg: string;
+  text: string;
+  category: string;
+  background: string;
+  altBackground: string;
+};
+
+export type Holiday = {
+  id: number;
+  category: string;
+  start: string;
+  end: string;
+  img: string;
+  altImg: string;
+  description: string;
+};

@@ -1,54 +1,23 @@
-'use client';
-
-import { useRef } from 'react';
-import CategorySection from '@/app/components/CategorySection';
+import React from 'react';
 import HeaderSection from './components/HeaderSection';
-import DataCardsCategory from '@/data/DataCardsCategory.json';
 import styles from './page.module.scss';
-import CardCategory from './components/CardCategory';
 import SearchBar from './components/SearchBar';
 import HeroSectionDesktop from './components/HeroSectionDesktop';
-import MediaQuery from '@/utils/MediaQuery/MediaQuery';
-import FavoriteSection from './components/FavoriteSection';
+import AllCategorySection from './components/AllCategorySection';
+import { isMobileUserAgent } from '@/utils/isMobileUserAgent/isMobileUserAgent';
+import { headers } from 'next/headers';
 
-const HomeSection = () => {
-	const sectionRefs = useRef<(HTMLDivElement | null)[]>([]);
-	const isMobile = MediaQuery('(max-width: 700px)');
-
-	const allKeyStorage = Object.keys(localStorage);
-	const favoriteKeys = allKeyStorage.filter((key) => key.includes('favorite'));
-	const productId = favoriteKeys.map((key) => key.replace('favorite', ''));
-
-	const scrollToSection = (id: number) => {
-		sectionRefs.current[id]?.scrollIntoView({ behavior: 'smooth' });
-	};
+const HomeSection = async () => {
+	const headersList = await headers();
+	const userAgent = headersList.get('user-agent') || '';
+	const isMobile = isMobileUserAgent(userAgent);
 
 	return (
 		<main className={styles.wrapper}>
 			{isMobile && <HeaderSection />}
-			<SearchBar className={styles.containerInpt} btnSubmit={styles.btnSubmit}/>
+			<SearchBar className={styles.containerInpt} btnSubmit={styles.btnSubmit} />
 			{!isMobile && <HeroSectionDesktop />}
-			{productId.length >= 5 && <FavoriteSection listId={productId} />}
-
-			{isMobile && (
-				<nav className={styles.containerCard}>
-					{DataCardsCategory.map((card) => (
-						<CardCategory
-							onClick={() => scrollToSection(card.id)}
-							key={card.id}
-							{...card}
-						/>
-					))}
-				</nav>
-			)}
-
-			{DataCardsCategory.map((card, index) => (
-			<CategorySection
-				key={card.id}
-				{...card}
-				ref={(el) => { (sectionRefs.current[index] = el)}}
-			/>
-))}
+			<AllCategorySection />
 		</main>
 	);
 };
