@@ -11,6 +11,7 @@ import dataHoliday from '@/data/holyDay.json';
 
 const NavBarMobile = () => {
 	const [showHolidays, setShowHolidays] = useState(false);
+	console.log('estou aqui');
 
 	return (
 		<nav className={styles.wrapper}>

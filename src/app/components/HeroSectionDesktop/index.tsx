@@ -18,10 +18,6 @@ import { useEffect, useState } from 'react';
 
 const HeroSectionDesktop = () => {
 
-	// 	const [action, setAction] = useState(() => {
-	// 	const getAction = localStorage.getItem(`${type}${productId}`);
-	// 	return getAction === 'true'; // converte para booleano
-	// });
 	const [productId, setProductId] = useState<string[]>(() => {
 		if (typeof window === 'undefined') return []; // evita erro no SSR
 
