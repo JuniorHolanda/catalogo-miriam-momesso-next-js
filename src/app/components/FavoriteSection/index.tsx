@@ -15,6 +15,7 @@ import { useState, useEffect } from 'react';
 import CardSearch from '../CardSearch';
 import MediaQuery from '@/utils/MediaQuery/MediaQuery';
 import { Product } from '@/types/AllTypes';
+import { flightRouterStateSchema } from 'next/dist/server/app-render/types';
 
 type FavoriteSectionProps = {
 	style?: string;
@@ -26,18 +27,10 @@ const FavoriteSection = ({ style, listId }: FavoriteSectionProps) => {
 	const [products, setProducts] = useState<Product[]>([]);
 
 	useEffect(() => {
-		async function fetchProducts() {
-			try {
-				const response = await getProducts();
-				setProducts(response);
-			} catch (error: unknown) {
-				if (error instanceof Error) {
-					console.log('Erro ao carregar produtos:', error.message);
-				} else {
-					console.log('Erro desconhecido:', error);
-				}
-			}
-		}
+		const fetchProducts = async () => {
+			const response = await getProducts(); // já trata erros
+			setProducts(response);
+		};
 		fetchProducts();
 	}, []);
 
@@ -50,18 +43,12 @@ const FavoriteSection = ({ style, listId }: FavoriteSectionProps) => {
 					<h2 className={styles.title}>
 						Seus produtos <br />
 						<strong>favoritos</strong>
-						<br />
-						em um único lugar
+						<br />em um único lugar
 					</h2>
 					<p className={styles.text}>
 						Nesta seção ficam os produtos que você marcou como favorito.
-						<br />
-						Assim,{' '}
-						<strong>
-							sempre que quiser rever suas melhores escolhas, é só passar por aqui.
-						</strong>
-						Nada de perder tempo procurando de novo, seus favoritos estão todos
-						reunidos.
+						<br /> Assim, <strong>sempre que quiser rever suas melhores escolhas, é só passar por aqui.</strong>
+						<br />Nada de perder tempo procurando de novo, seus favoritos estão todos reunidos.
 					</p>
 				</div>
 
@@ -75,7 +62,7 @@ const FavoriteSection = ({ style, listId }: FavoriteSectionProps) => {
 							loop={true}
 							modules={[Autoplay, Navigation, Pagination, EffectFade]}
 							autoplay={{
-								delay: 3000,
+								delay: 3500,
 								disableOnInteraction: false,
 							}}
 							speed={1500}

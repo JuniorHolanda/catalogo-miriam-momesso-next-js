@@ -17,15 +17,17 @@ import { useEffect, useState } from 'react';
 
 
 const HeroSectionDesktop = () => {
-	const [allKeyStorage, setAllkeyStorage] = useState<string[]>([])
 
-	useEffect(() => {
-		const key = Object.keys(localStorage);
-		setAllkeyStorage(key);
-	}, []);
+	const [productId, setProductId] = useState<string[]>(() => {
+		if (typeof window === 'undefined') return []; // evita erro no SSR
 
-	const favoriteKeys = allKeyStorage.filter((key) => key.includes('favorite'));
-	const productId = favoriteKeys.map((key) => key.replace('favorite', ''));
+		const keys = Object.keys(localStorage);
+		const favoriteKeys = keys.filter((key) => key.includes('favorite'));
+		const id = favoriteKeys.map((key) => key.replace('favorite', ''));
+		return id;
+	});
+
+
 
 	return (
 		<section className={styles.wrapper}>
