@@ -13,10 +13,12 @@ type Props = {
 	};
 };
 
+
+
 const CategoryPage = async ({ params }: Props) => {
 
+	console.log(params.slug)
 	const categorySlugified = params.slug;
-	console.log('Categoria:', categorySlugified);
 
 	const title: string | undefined = dataHoliday.find((item: Holiday) => {
 		const slugTitle = slugifyText(item.category);

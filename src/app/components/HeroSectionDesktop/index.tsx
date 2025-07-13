@@ -13,12 +13,25 @@ import 'swiper/css/effect-fade';
 import dataHoliday from '@/data/holyDay.json';
 import Holiday from '../HolidaysCard';
 import FavoriteSection from '../../components/FavoriteSection';
+import { useEffect, useState } from 'react';
 
 
 const HeroSectionDesktop = () => {
-	const allKeyStorage = Object.keys(localStorage);
-	const favoriteKeys = allKeyStorage.filter((key) => key.includes('favorite'));
-	const productId = favoriteKeys.map((key) => key.replace('favorite', ''));
+
+	// 	const [action, setAction] = useState(() => {
+	// 	const getAction = localStorage.getItem(`${type}${productId}`);
+	// 	return getAction === 'true'; // converte para booleano
+	// });
+	const [productId, setProductId] = useState<string[]>(() => {
+		if (typeof window === 'undefined') return []; // evita erro no SSR
+
+		const keys = Object.keys(localStorage);
+		const favoriteKeys = keys.filter((key) => key.includes('favorite'));
+		const id = favoriteKeys.map((key) => key.replace('favorite', ''));
+		return id;
+	});
+
+
 
 	return (
 		<section className={styles.wrapper}>

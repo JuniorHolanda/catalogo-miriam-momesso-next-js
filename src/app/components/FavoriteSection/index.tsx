@@ -26,18 +26,10 @@ const FavoriteSection = ({ style, listId }: FavoriteSectionProps) => {
 	const [products, setProducts] = useState<Product[]>([]);
 
 	useEffect(() => {
-		async function fetchProducts() {
-			try {
-				const response = await getProducts();
-				setProducts(response);
-			} catch (error: unknown) {
-				if (error instanceof Error) {
-					console.log('Erro ao carregar produtos:', error.message);
-				} else {
-					console.log('Erro desconhecido:', error);
-				}
-			}
-		}
+		const fetchProducts = async () => {
+			const response = await getProducts(); // já trata erros
+			setProducts(response);
+		};
 		fetchProducts();
 	}, []);
 
