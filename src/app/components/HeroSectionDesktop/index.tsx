@@ -13,10 +13,17 @@ import 'swiper/css/effect-fade';
 import dataHoliday from '@/data/holyDay.json';
 import Holiday from '../HolidaysCard';
 import FavoriteSection from '../../components/FavoriteSection';
+import { useEffect, useState } from 'react';
 
 
 const HeroSectionDesktop = () => {
-	const allKeyStorage = Object.keys(localStorage);
+	const [allKeyStorage, setAllkeyStorage] = useState<string[]>([])
+
+	useEffect(() => {
+		const key = Object.keys(localStorage);
+		setAllkeyStorage(key);
+	}, []);
+
 	const favoriteKeys = allKeyStorage.filter((key) => key.includes('favorite'));
 	const productId = favoriteKeys.map((key) => key.replace('favorite', ''));
 

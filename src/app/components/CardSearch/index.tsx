@@ -36,8 +36,8 @@ const CardSearch = ({ product }: CardSearchProps) => {
 		<div className={styles.cardItem}>
 			<div className={styles.headerCard}>
 				<div className={styles.containerCategoryCard}>
-					{product.category.map((item) => {
-						return <span className={styles.categoryCard}>{item}</span>;
+					{product.category.map((item: string, index: number) => {
+						return <span key={`${item}-${index}`} className={styles.categoryCard}>{item}</span>;
 					})}
 				</div>
 				<div className={styles.containerInteractiveBtn}>
