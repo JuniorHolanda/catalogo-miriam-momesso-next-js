@@ -14,7 +14,6 @@ type Props = {
 };
 
 
-
 const CategoryPage = async ({ params }: Props) => {
 
 	console.log(params.slug)
@@ -29,7 +28,7 @@ const CategoryPage = async ({ params }: Props) => {
 
 	return (
 		<section className={styles.wrapper}>
-			<HeaderSection id={title || params.slug} className={styles.headerSection} />
+			<HeaderSection id={title} className={styles.headerSection} />
 			<div className={styles.container}>
 				{!products || products.length === 0 ? (
 					<LoaderData className={styles.loaderData} />

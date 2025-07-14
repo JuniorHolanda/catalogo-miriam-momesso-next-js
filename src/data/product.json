@@ -1,0 +1,4353 @@
+[
+    {
+        "_id": "6811039905457bd8c1a3f5cd",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789745/bolsa-graci_3_glxsfs.jpg",
+        "altThumbnail": "uma bolsa branca",
+        "title": "Bolsa Graci",
+        "smallText": "Bolsa ampla, versátil e prática",
+        "text": "A Bolsa Graci é espaçosa e versátil, perfeita para o dia a dia, eventos e brindes corporativos, garantindo praticidade sem complicação.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "48x42x13cm"
+        ],
+        "printing": [
+            {
+                "arrow": "southwest",
+                "_id": "6833b8d5f3c76c43495d341b"
+            },
+            {
+                "arrow": "southeast",
+                "_id": "6833b8d5f3c76c43495d341c"
+            },
+            {
+                "arrow": "up",
+                "_id": "6833b8d5f3c76c43495d341d"
+            },
+            {
+                "arrow": "botton",
+                "_id": "6833b8d5f3c76c43495d341e"
+            },
+            {
+                "arrow": "center",
+                "_id": "6833b8d5f3c76c43495d341f"
+            }
+        ],
+        "gallery": [
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789745/bolsa-graci_3_glxsfs.jpg",
+                "altImg": "uma bolsa branca de frente",
+                "_id": "6833b8d5f3c76c43495d3420"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789744/bolsa-graci_1_zq4ism.jpg",
+                "altImg": "uma bolsa branca vista pela lateral",
+                "_id": "6833b8d5f3c76c43495d3421"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789745/bolsa-graci_4_nxztbx.jpg",
+                "altImg": "Uma bolsa azul",
+                "_id": "6833b8d5f3c76c43495d3422"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789745/bolsa-graci_2_oj4t06.jpg",
+                "altImg": "uma bolsa branca com estampa colorida",
+                "_id": "6833b8d5f3c76c43495d3423"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741903570/ajuste_mxse7i.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741903571/corpo_thl9fl.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741903571/alca_omxqje.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d0",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789722/bolsa-rss_2_xytuuc.jpg",
+        "altThumbnail": "Uma bolsa verde musgo",
+        "title": "Bolsa Rss",
+        "smallText": "Bolsa espaçosa ideal para eventos.",
+        "text": "A Bolsa RSS é ampla e prática, perfeita para feiras e eventos, oferecendo espaço de sobra para materiais e brindes.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "43x3715cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27530d",
+                "arrow": "northwest"
+            },
+            {
+                "_id": "68754588aa2781004e27530e",
+                "arrow": "northeast"
+            },
+            {
+                "_id": "68754588aa2781004e27530f",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275310",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275311",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275312",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275313",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275314",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789722/bolsa-rss_2_xytuuc.jpg",
+                "altImg": "uma bolsa azul de frente"
+            },
+            {
+                "_id": "68754588aa2781004e275315",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789722/bolsa-rss_3_qbf1k1.jpg",
+                "altImg": "uma bolsa vermelha"
+            },
+            {
+                "_id": "68754588aa2781004e275316",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789721/bolsa-rss_1_q7p9cl.jpg",
+                "altImg": "Aqui vai um alt atribute da img 2uma bolsa de lado"
+            },
+            {
+                "_id": "68754588aa2781004e275317",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789723/bolsa-rss_4_yf0lqb.jpg",
+                "altImg": "uma bolsa azul de frente"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d1",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789717/bolsa_praia_1_ng4v0t.jpg",
+        "altThumbnail": "Uma Ecobag com alça preta",
+        "title": "Bolsa Pst",
+        "smallText": "Bolsa disponível em vários tamanhos.",
+        "text": "A Bolsa PST se adapta a qualquer necessidade, disponível em diversos tamanhos para eventos, brindes corporativos e uso diário.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275318",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275319",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27531a",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e27531b",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27531c",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27531d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789718/bolsa_praia_4_uqpr3u.jpg",
+                "altImg": "Aqui vai um alt atribute"
+            },
+            {
+                "_id": "68754588aa2781004e27531e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789717/bolsa_praia_1_ng4v0t.jpg",
+                "altImg": "uma ecobag em algodão"
+            },
+            {
+                "_id": "68754588aa2781004e27531f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789718/bolsa_praia_3_mbyyvf.jpg",
+                "altImg": "Uma Bolsa Azul"
+            },
+            {
+                "_id": "68754588aa2781004e275320",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789718/bolsa_praia_2_jg2q1t.jpg",
+                "altImg": "Uma Bolsa de algodão com a alça preta"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d3",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789732/bolsa-vita-clear_4_td4ucs.jpg",
+        "altThumbnail": "Uma Ecobag com alça preta",
+        "title": "Bolsa Vita Clear",
+        "smallText": "Bgargfardsfgica e sofisticada.",
+        "text": "A Bolsa Praia Duo cuiouiouiouiououoiombina estilo e resistência, feita em juta para um visual rústico e sofisticado, perfeita para brindes e eventos.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275321",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275322",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275323",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275324",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275325",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275326",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789732/bolsa-vita-clear_4_td4ucs.jpg",
+                "altImg": "Aqui vai um alt atribute"
+            },
+            {
+                "_id": "68754588aa2781004e275327",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789732/bolsa-vita-clear_3_tjqbob.jpg",
+                "altImg": "uma ecobag em algodão"
+            },
+            {
+                "_id": "68754588aa2781004e275328",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789731/bolsa-vita-clear_2_fanjws.jpg",
+                "altImg": "Uma Bolsa Azul"
+            },
+            {
+                "_id": "68754588aa2781004e275329",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789730/bolsa-vita-clear_1_lhgrcv.jpg",
+                "altImg": "Uma Bolsa de algodão com a alça preta"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d7",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886628/necessaire-Cn_3_kqwsh3.jpg",
+        "altThumbnail": "Uma necessaire azul marinho",
+        "title": "Necessaire CN",
+        "smallText": "Necessaire espaçosa e versátil.",
+        "text": "A Necessaire CN é ampla e versátil, ideal para organizar itens essenciais com praticidade no dia a dia ou em viagens.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "26x15x09cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27532a",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27532b",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27532c",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e27532d",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27532e",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27532f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886628/necessaire-Cn_3_kqwsh3.jpg",
+                "altImg": "Uma necessaire branca com zíper vermelho"
+            },
+            {
+                "_id": "68754588aa2781004e275330",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886627/necessaire-Cn_2_pbdfam.jpg",
+                "altImg": "Uma necessaire rosa de costas"
+            },
+            {
+                "_id": "68754588aa2781004e275331",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886626/necessaire-Cn_1_eeese0.jpg",
+                "altImg": "uma necessaire cor de caramelo com ziper azul"
+            },
+            {
+                "_id": "68754588aa2781004e275332",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886625/necessaire-Cn_4_kbd8uw.jpg",
+                "altImg": "Uma necessaire branca com zíper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d8",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886789/necessarie-ev_2_ertsem.jpg",
+        "altThumbnail": "UUma necessaire Azul",
+        "title": "Necessaire EV",
+        "smallText": "Necessaire pequena, funcional e prática.",
+        "text": "A Necessaire Ev é compacta e funcional, perfeita para carregar itens essenciais com praticidade no dia a dia.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "15x9x7cm",
+            "16x8x5cm",
+            "20x11x7cm",
+            "24x11x5cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275333",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275334",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275335",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275336",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275337",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275338",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886789/necessarie-ev_2_ertsem.jpg",
+                "altImg": "Uma necessaire branca com zíper vermelho"
+            },
+            {
+                "_id": "68754588aa2781004e275339",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886790/necessarie-ev_4_zqmrii.jpg",
+                "altImg": "Uma necessaire rosa de costas"
+            },
+            {
+                "_id": "68754588aa2781004e27533a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886788/necessarie-ev_1_ymjznr.jpg",
+                "altImg": "uma necessaire cor de caramelo com ziper azul"
+            },
+            {
+                "_id": "68754588aa2781004e27533b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886787/necessarie-ev_3_zzxkqw.jpg",
+                "altImg": "Uma necessaire branca com zíper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5dc",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886475/necessarie-bh_1_na4ucv.jpg",
+        "altThumbnail": "uma necessaire Branca com alça",
+        "title": "Necessaire Bh",
+        "smallText": "Necessaire fina, sofisticada e prática.",
+        "text": "A Necessaire BH combina elegância e praticidade em um design fino e sofisticado, ideal para brindes e uso diário.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "19x12x1cm",
+            "23x12x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27533c",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27533d",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27533e",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e27533f",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275340",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275341",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886474/necessarie-bh4_dewxi9.jpg",
+                "altImg": "Uma necessaire branca com um ziper azul"
+            },
+            {
+                "_id": "68754588aa2781004e275342",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886475/necessarie-bh_1_na4ucv.jpg",
+                "altImg": "uma necessaire branca de ziper pink"
+            },
+            {
+                "_id": "68754588aa2781004e275343",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886475/necessarie-bh_2_zzue4z.jpg",
+                "altImg": "uma necessaire de sintético cor de caramelo"
+            },
+            {
+                "_id": "68754588aa2781004e275344",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741886476/necessarie-bh_3_coywzd.jpg",
+                "altImg": "uma necessaire rosa de costas"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5dd",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887310/Necessarie-Ev-Bolso_2_yrz8i5.jpg",
+        "altThumbnail": "uma necessaire dourado",
+        "title": "Necessaire Ev Bolso",
+        "smallText": "Necessaire espaçosa e muito prática",
+        "text": "A Necessaire Ev Bolso é ampla e funcional, perfeita para organizar seus itens com praticidade no dia a dia ou em viagens.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "20x11x7cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275345",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275346",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275347",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275348",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275349",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27534a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887312/Necessarie-Ev-Bolso_4_mtpei8.jpg",
+                "altImg": "Uma necessaire cinza com ziper amarelo"
+            },
+            {
+                "_id": "68754588aa2781004e27534b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887310/Necessarie-Ev-Bolso_2_yrz8i5.jpg",
+                "altImg": "uma necessaire vermelha"
+            },
+            {
+                "_id": "68754588aa2781004e27534c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887309/Necessarie-Ev-Bolso_3_b7bjd5.jpg",
+                "altImg": "uma necessaire vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e27534d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887308/Necessarie-Ev-Bolso_1_sxv0c9.jpg",
+                "altImg": "uma necessaire azul vista de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5de",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741885907/necessaire-bau-masculina_1_qevcji.jpg",
+        "altThumbnail": "Uma necessaire cinza",
+        "title": "Necessaire Baú Masculina",
+        "smallText": "Necessaire masculina ampla e prática.",
+        "text": "A Necessaire Baú Masculina é espaçosa e ideal para armazenar itens de higiene e cuidados pessoais com praticidade e estilo.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "20x23x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27534e",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27534f",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275350",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275351",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275352",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275353",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741885907/necessaire-bau-masculina_1_qevcji.jpg",
+                "altImg": "Uma necessaire cinza fechada"
+            },
+            {
+                "_id": "68754588aa2781004e275354",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741895898/Nec_Bau_Masculina_-_Cinza_mescla_-_aberta_e_fechada400_gyumfk.jpg",
+                "altImg": "uma necessaire cinza aberta"
+            },
+            {
+                "_id": "68754588aa2781004e275355",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741885907/necessaire-bau-masculina_4_o0ebom.jpg",
+                "altImg": "uma necessaire dcostas"
+            },
+            {
+                "_id": "68754588aa2781004e275356",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741885907/necessaire-bau-masculina_3_sdobts.jpg",
+                "altImg": "uma necessaire cinza de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e5",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741981285/Carteira_Feminina_JL_01400_t6jt1v.jpg",
+        "altThumbnail": "Uma carteira Aberta com itens internos",
+        "title": "Carteira Feminina JL",
+        "smallText": "Carteira feminina personalizada com compartimentos",
+        "text": "A Carteira Feminina JL é prática e espaçosa, com diversos compartimentos para organizar cartões, dinheiro e documentos com estilo.",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "20x11x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275357",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275358",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275359",
+                "arrow": "northeast"
+            },
+            {
+                "_id": "68754588aa2781004e27535a",
+                "arrow": "northwest"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27535b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741981285/Carteira_Feminina_JL_01400_t6jt1v.jpg",
+                "altImg": "Uma carteira aberta com cartões, passaporte, e documentos"
+            },
+            {
+                "_id": "68754588aa2781004e27535c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741981286/Carteira_Feminina_Jl400_ywfwvq.jpg",
+                "altImg": "carteira em material juta"
+            },
+            {
+                "_id": "68754588aa2781004e27535d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741981284/Carteira_Feminina_JL_frente400_tsduxn.jpg",
+                "altImg": "Uuma carteira em material juta vista de frente"
+            },
+            {
+                "_id": "68754588aa2781004e27535e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741981288/DSC08096400_t4x7cp.jpg",
+                "altImg": "carteira de frente na cor marrom comdetalhes de vermelho"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e7",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742215863/87-800400_ip8f3h.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Carteira Slim",
+        "smallText": "Carteira personalizada fina e elegante",
+        "text": "A Carteira Slim é fina e elegante, perfeita para quem busca um acessório compacto sem abrir mão da sofisticação.",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "10x5cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27535f",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275360",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275361",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275362",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742215863/87-800400_ip8f3h.jpg",
+                "altImg": "Estojo vermelho triangular"
+            },
+            {
+                "_id": "68754588aa2781004e275363",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742215863/88-800400_ery1m5.jpg",
+                "altImg": "Estojo laranja visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e275364",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742215862/128-800400_ngjpsh.jpg",
+                "altImg": "Um estojo verde visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e275365",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742215862/153-800400_wp1ubp.jpg",
+                "altImg": "Um estojo bege com ziper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5eb",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742241918/1_j0wdch.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Mala FRR",
+        "smallText": "Mala personalizada com alças e bolso",
+        "text": "A Mala FRR é prática e versátil, com alça de mão, alça transversal e bolso frontal para maior organização e conforto.",
+        "category": [
+            "Malas"
+        ],
+        "measure": [
+            "42x27x26cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275366",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275367",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275368",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275369",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27536a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742241918/1_j0wdch.jpg",
+                "altImg": "Mala esportiva bege e azul claro, com alças de mão e ombro removível."
+            },
+            {
+                "_id": "68754588aa2781004e27536b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742241921/4_lm52nl.jpg",
+                "altImg": "Mala esportiva vermelha com detalhes em azul marinho, alças de mão e ombro ajustável."
+            },
+            {
+                "_id": "68754588aa2781004e27536c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742241917/3_tpxxri.jpg",
+                "altImg": "Mala esportiva preta com alças de mão e ombro ajustável."
+            },
+            {
+                "_id": "68754588aa2781004e27536d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742241916/2_xde3fc.jpg",
+                "altImg": "Mala esportiva preta com zíper, alças de mão e bolso lateral."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ec",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242204/3_rfxka8.jpg",
+        "altThumbnail": "Mala esportiva cinza com detalhes em preto, zíper e alças de mão e ombro vista de frente",
+        "title": "Mala Redon",
+        "smallText": "Mala personalizada espaçosa e redonda",
+        "text": "A Mala Redon tem design amplo e redondo, oferecendo espaço de sobra para transportar seus pertences com praticidade.",
+        "category": [
+            "Malas"
+        ],
+        "measure": [
+            "36x25x25cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27536e",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27536f",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275370",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275371",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275372",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242204/3_rfxka8.jpg",
+                "altImg": "Mala esportiva cinza com detalhes em preto, zíper e alças de mão e ombro."
+            },
+            {
+                "_id": "68754588aa2781004e275373",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242206/1_mbaxpw.jpg",
+                "altImg": "Mala esportiva preta com zíper, alças de mão e logo branco"
+            },
+            {
+                "_id": "68754588aa2781004e275374",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242214/4_kqhwab.jpg",
+                "altImg": "uMala esportiva cinza redonda com alças de mão e ombro removível."
+            },
+            {
+                "_id": "68754588aa2781004e275375",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242219/2_y95qzy.jpg",
+                "altImg": "Mala esportiva azul com zíper e alças de mão."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f1",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742494162/thumbnail_1_400_hdnmfw.jpg",
+        "altThumbnail": "Mochila preta com faixa vertical vermelha e detalhes em preto, vista em perspectiva.",
+        "title": "Mochila ADV",
+        "smallText": "Mochila pequena personalizada e prática",
+        "text": "A Mochila ADV é compacta e prática, perfeita para quem busca uma opção leve e funcional para o dia a dia.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "29x40x12cm",
+            "33x44x13cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275376",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275377",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275378",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275379",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27537a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742494162/thumbnail_1_400_hdnmfw.jpg",
+                "altImg": "Mochila preta com faixa vermelha e detalhes em preto."
+            },
+            {
+                "_id": "68754588aa2781004e27537b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742494161/62-800400_ts5hdx.jpg",
+                "altImg": "Mochila azul marinho com duas faixas verticais brancas, vista frontal."
+            },
+            {
+                "_id": "68754588aa2781004e27537c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742494159/MochilaADV_294012_-_preto_-_Faixa_-_top_view400_sgrzb0.jpg",
+                "altImg": "Mochila preta com detalhe em faixa."
+            },
+            {
+                "_id": "68754588aa2781004e27537d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742494158/20400_zsrgk7.jpg",
+                "altImg": "Mochila azul claro com zíper lateral e alça preta, vista lateral em perspectiva."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f4",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742497501/4-800_vjn4mb.jpg",
+        "altThumbnail": "mochila com detalhes vermelhos",
+        "title": "Mochila MM Simple",
+        "smallText": "Mochila personalizada com bolsos externos",
+        "text": "A Mochila MM Simple combina funcionalidade e estilo, com um bolso frontal externo e um bolso de tela lateral para mais organização.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "36x47x12cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27537e",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27537f",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275380",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275381",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275382",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742497501/4-800_vjn4mb.jpg",
+                "altImg": "uma mochila personaliza com detalhes vermelhos"
+            },
+            {
+                "_id": "68754588aa2781004e275383",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472294/1-400_pzelj8.jpg",
+                "altImg": "mochila corporativa ideal para brindes"
+            },
+            {
+                "_id": "68754588aa2781004e275384",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472292/3-400-1_wuvhdg.jpg",
+                "altImg": "uma mochila vita de costas"
+            },
+            {
+                "_id": "68754588aa2781004e275385",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472296/3-400_fbwyr1.jpg",
+                "altImg": "uma mochila corporativa"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f9",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523043/Pasta_IBM400_hs5i3v.jpg",
+        "altThumbnail": "Pasta IBM personalizada com tampa e alça transversal prática.",
+        "title": "Pasta IBM",
+        "smallText": "Pasta personalizada com alça transversal",
+        "text": "A Pasta IBM tem tampa e alça transversal, sendo ideal para o transporte seguro e elegante de documentos e materiais.",
+        "category": [
+            "Pastas"
+        ],
+        "measure": [
+            "26x19x1cm",
+            "37x26x1"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275386",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275387",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275388",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275389",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27538a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523044/aa_t3u6rs.jpg",
+                "altImg": "um homem branco removendo um envelope de dentro de uma pasta corporativa personalizada"
+            },
+            {
+                "_id": "68754588aa2781004e27538b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523043/Pasta_IBM400_hs5i3v.jpg",
+                "altImg": "uma pasta que é um brinde personalizado"
+            },
+            {
+                "_id": "68754588aa2781004e27538c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523042/12-2000_2_400_m9tb1e.jpg",
+                "altImg": "umas pasta azul turquesa em sintético"
+            },
+            {
+                "_id": "68754588aa2781004e27538d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523042/11-2000400_n2pn9d.jpg",
+                "altImg": "Uma pasta personalizada vista de frente"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5fa",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523083/126-800400_hdmumv.jpg",
+        "altThumbnail": "Pasta Lob personalizada, com design em formato de envelope elegante.",
+        "title": "Pasta Lob",
+        "smallText": "Pasta personalizada em formato envelope",
+        "text": "A Pasta Lob tem formato de envelope, oferecendo design sofisticado e compacto para armazenar documentos de forma prática.",
+        "category": [
+            "Pastas"
+        ],
+        "measure": [
+            "24x17x1cm",
+            "34x25x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27538e",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27538f",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275390",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275391",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275392",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523085/pasta-lob-preta400_ropwnd.jpg",
+                "altImg": "Uma pasta debaixo de um abajur"
+            },
+            {
+                "_id": "68754588aa2781004e275393",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523084/16-800_2_400_psdmam.jpg",
+                "altImg": "uma pasta de plástico"
+            },
+            {
+                "_id": "68754588aa2781004e275394",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523085/pasta-lob-preta400_ropwnd.jpg",
+                "altImg": "uma pasta preta sobre uma besa e abaxo de um abajur"
+            },
+            {
+                "_id": "68754588aa2781004e275395",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523085/pasta-lob-azul400_zsfalv.jpg",
+                "altImg": "pasta azul turquesa e flores"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5fc",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845194/1-400_yz16x5.jpg",
+        "altThumbnail": "Alfabetário infantil dobrável personalizado",
+        "title": "Alfabetário CJSP",
+        "smallText": "Alfabetário dobrável personalizado para aprendizado",
+        "text": "Alfabetário infantil dobrável e personalizado, ideal para escolas e eventos educacionais. Leve, prático e estimulante para aprendizado.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "25x50cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275396",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275397",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275398",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275399",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27539a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845194/1-400_yz16x5.jpg",
+                "altImg": "Brinde personalizado: alfabetário para escolas"
+            },
+            {
+                "_id": "68754588aa2781004e27539b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845184/3-400_fybibs.jpg",
+                "altImg": "Alfabetário dobrável leve e prático"
+            },
+            {
+                "_id": "68754588aa2781004e27539c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845181/4-400_orozn6.jpg",
+                "altImg": "Alfabetário educativo personalizado infantil"
+            },
+            {
+                "_id": "68754588aa2781004e27539d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845191/3-400-1_jhb486.jpg",
+                "altImg": "Alfabetário dobrável personalizado para eventos"
+            }
+        ],
+        "like": 0
+    },
+
+    {
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752522020/minibag-pst-frente-produtos_v6k1ep.jpg",
+        "altThumbnail": "Uma necessaire dourada com cosméticos",
+        "title": "Necessaire Pst",
+        "smallText": "Elegância, personalização, praticidade, destaque.",
+        "text": "A Necessaire PST combina sofisticação e praticidade em um design moderno e elegante. Com acabamento dourado e textura em relevo, é perfeita para guardar seus itens essenciais. Ideal para ações promocionais ou brindes de luxo com personalização exclusiva. Um acessório que valoriza sua marca com estilo e funcionalidade.",
+        "category": [
+            "Diversos" , "Dia das secretárias"
+        ],
+        "measure": [
+            "20x11x3cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275396",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275397",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275398",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275399",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27539a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752522020/minibag-pst-frente-produtos_v6k1ep.jpg",
+                "altImg": "Brinde personalizado: alfabetário para escolas"
+            },
+            {
+                "_id": "68754588aa2781004e27539b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752522020/minibag-pst-frente-preta_ni1crr.jpg",
+                "altImg": "Alfabetário dobrável leve e prático"
+            },
+            {
+                "_id": "68754588aa2781004e27539c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752522019/minibag-pst-frente-azul_isvxyh.jpg",
+                "altImg": "Alfabetário educativo personalizado infantil"
+            },
+            {
+                "_id": "68754588aa2781004e27539d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752522020/minibag-pst-frente_uksopo.jpg",
+                "altImg": "Alfabetário dobrável personalizado para eventos"
+            }
+        ],
+        "like": 0
+    },
+
+    {
+        "_id": "6811039905457bd8c1a3f5fe",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845122/3-400_nma5fo.jpg",
+        "altThumbnail": "Kit de higiene pequeno e portátil",
+        "title": "Kit Higiene Pocket",
+        "smallText": "Kit de higiene portátil personalizado",
+        "text": "Pequeno kit de higiene portátil, com escova, creme dental e fio dental, ideal para viagens e brindes promocionais.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "6x14x3cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27539e",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27539f",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753a0",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753a1",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753a2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845122/3-400_nma5fo.jpg",
+                "altImg": "Brinde personalizado: kit de higiene"
+            },
+            {
+                "_id": "68754588aa2781004e2753a3",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845117/1-400_b1ogua.jpg",
+                "altImg": "Kit com escova e creme dental"
+            },
+            {
+                "_id": "68754588aa2781004e2753a4",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845110/3-400-1_zkqpff.jpg",
+                "altImg": "Kit higiene compacto para brindes"
+            },
+            {
+                "_id": "68754588aa2781004e2753a5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845108/4-400_bi5nmz.jpg",
+                "altImg": "Kit de higiene para viagens"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f603",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844952/4-400_ogclon.jpg",
+        "altThumbnail": "Organizador versátil e prático personalizado",
+        "title": "Organizador Wish",
+        "smallText": "Organizador versátil e personalizado compacto",
+        "text": "Organizador versátil e personalizado, ideal para organizar roupas e acessórios em viagens ou no dia a dia.",
+        "category": [
+            "Diversos", "Dia das secretárias"
+        ],
+        "measure": [
+            "17x22x17cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753a6",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753a7",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753a8",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753a9",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753aa",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844952/4-400_ogclon.jpg",
+                "altImg": "Organizador compacto para viagens e acessórios"
+            },
+            {
+                "_id": "68754588aa2781004e2753ab",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844951/3-400_yviv3i.jpg",
+                "altImg": "Brinde personalizado: organizador funcional"
+            },
+            {
+                "_id": "68754588aa2781004e2753ac",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844946/1-400_doui3b.jpg",
+                "altImg": "Organizador para roupas e acessórios personalizado"
+            },
+            {
+                "_id": "68754588aa2781004e2753ad",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844946/1-400_doui3b.jpg",
+                "altImg": "Organizador personalizado para mala ou armário"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f607",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844670/3-400-1_bdfwm2.jpg",
+        "altThumbnail": "Bolsa térmica AE Tri vista de cima",
+        "title": "Térmica AE Tri",
+        "smallText": "Isolamento térmico e praticidade",
+        "text": "A Térmica AE Tri oferece compartimento interno espaçoso e excelente isolamento térmico para o dia a dia.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753ae",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753af",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844670/3-400-1_bdfwm2.jpg",
+                "altImg": "Vista frontal da Térmica AE Tri"
+            },
+            {
+                "_id": "68754588aa2781004e2753b0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1744143311/4-400_slzqfj.jpg",
+                "altImg": "Bolsa térmica AE Tri lateral"
+            },
+            {
+                "_id": "68754588aa2781004e2753b1",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844663/3-400_b0zndh.jpg",
+                "altImg": "termica Ae Tri vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2753b2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844662/1-400_ghfcfi.jpg",
+                "altImg": "AE Tri Preta"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5cc",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789740/bolsa-andrea_2_f6hun2.jpg",
+        "altThumbnail": "Uma bolsa branca de tela com uma necessaire",
+        "title": "Bolsa Andrea",
+        "smallText": "Acompanha Necessaire",
+        "text": "A Bolsa Andrea combina leveza e praticidade, feita de tela resistente e acompanhada de uma nécessaire interna para organização.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "64x37x18cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753b3",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753b4",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789740/bolsa-andrea_2_f6hun2.jpg",
+                "altImg": "Uma bolsa branca de tela com uma necessaire"
+            },
+            {
+                "_id": "68754588aa2781004e2753b5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789741/bolsa-andrea_3_zrlfkt.jpg",
+                "altImg": "uma bolsa preta de tela com uma necessaire pendurada"
+            },
+            {
+                "_id": "68754588aa2781004e2753b6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789740/bolsa-andrea_1_e312jg.jpg",
+                "altImg": "Bolsa em tela branca com necessaire interna"
+            },
+            {
+                "_id": "68754588aa2781004e2753b7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789741/bolsa-andrea_4_r5rqa0.jpg",
+                "altImg": "Bolsa em tela preta vista de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d6",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741892769/Necessaire-vani-visor_1_zpmhlr.jpg",
+        "altThumbnail": "Uma necessaire preta com visor de plástico transparente",
+        "title": "Necessaire Vani Visor",
+        "smallText": "Necessaire pequena com visor transparente.",
+        "text": "A Necessaire Vani Visor é compacta e funcional, com visor de plástico transparente para fácil visualização dos itens essenciais.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "24x13x05cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753b8",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753b9",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753ba",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2753bb",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753bc",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753bd",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741892769/Necessaire-vani-visor_1_zpmhlr.jpg",
+                "altImg": "Bolsa em translúcida de frente com itens de higiene dentro"
+            },
+            {
+                "_id": "68754588aa2781004e2753be",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741892766/Necessaire-vani-visor_3_fv8tym.jpg",
+                "altImg": "Bolsa em plástico translúcido e azul"
+            },
+            {
+                "_id": "68754588aa2781004e2753bf",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741892760/Necessaire-vani-visor_2_us7kqf.jpg",
+                "altImg": "Bolsa em plástico translúcido"
+            },
+            {
+                "_id": "68754588aa2781004e2753c0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741892763/Necessaire-vani-visor_4_kmcqiw.jpg",
+                "altImg": "Bolsa translúcida de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5da",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888587/Necessaire-hope_1_haeqc6.jpg",
+        "altThumbnail": "uma necessaire dourado",
+        "title": "Necessaire Hope",
+        "smallText": "Necessaire pequena com visor em tela.",
+        "text": "A Necessaire Hope é compacta e charmosa, com visor frontal em tela para fácil visualização dos itens essenciais.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "15x10x1cm",
+            "20x11x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753c1",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753c2",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753c3",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2753c4",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753c5",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753c6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888587/Necessaire-hope_1_haeqc6.jpg",
+                "altImg": "Uma necessaire dourada"
+            },
+            {
+                "_id": "68754588aa2781004e2753c7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888589/Necessaire-hope_3_v7m6oe.jpg",
+                "altImg": "Uma necessaire azul"
+            },
+            {
+                "_id": "68754588aa2781004e2753c8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888585/Necessaire-hope_2_vqdu9k.jpg",
+                "altImg": "uma necessaire preta com cartão"
+            },
+            {
+                "_id": "68754588aa2781004e2753c9",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888583/Necessaire-hope_4_irdi09.jpg",
+                "altImg": "Uma necessaire pink com algumas maquiagens "
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e0",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741965982/Estojo_Miu_-_ny600_-_azul_marinho_-_aberto_o6xi9o.jpg",
+        "altThumbnail": "Um estojo aberto com material escolar",
+        "title": "Estojo Miu ",
+        "smallText": ".",
+        "text": "",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753ca",
+                "arrow": "northeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753cb",
+                "arrow": "northwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753cc",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753cd",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753ce",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753cf",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753d0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741965982/Estojo_Miu_-_ny600_-_azul_marinho_-_aberto_o6xi9o.jpg",
+                "altImg": "uma estojo aberto"
+            },
+            {
+                "_id": "68754588aa2781004e2753d1",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741965981/Estojo_Miu_-_ny600_-_azul_marinho_-_lateral_ir9iqm.jpg",
+                "altImg": "Um estojo azul fechado"
+            },
+            {
+                "_id": "68754588aa2781004e2753d2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741965981/Estojo_Miu_-_ny600_-_azul_marinho_-_frente_bwuf1e.jpg",
+                "altImg": "um estojo azul e amarelo"
+            },
+            {
+                "_id": "68754588aa2781004e2753d3",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741965980/3_3_p0oevy.jpg",
+                "altImg": "uma estojo azul e amarelo fechado"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ea",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741993138/4_mctjkt.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Porta Cartão Borges",
+        "smallText": "Porta-cartão personalizado com divisórias plásticas",
+        "text": "O Porta Cartão Borges possui divisórias de plástico resistentes, garantindo proteção e organização para seus cartões em qualquer",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "8x10x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753d4",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753d5",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753d6",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753d7",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753d8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741993138/4_mctjkt.jpg",
+                "altImg": "Uma carteira aberta com cartões nos compartimentos de plástico"
+            },
+            {
+                "_id": "68754588aa2781004e2753d9",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741993138/1_zye2u5.jpg",
+                "altImg": "Estojo laranja visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e2753da",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741993139/2_jocsdy.jpg",
+                "altImg": "Um estojo verde visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2753db",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741993138/3_lsak7u.jpg",
+                "altImg": "Um estojo bege com ziper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ee",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242444/1_pbg7y5.jpg",
+        "altThumbnail": "Mala esportiva azul marinho com detalhes em laranja e alças de mão e ombro ajustável marrom.",
+        "title": "Mala Redon G",
+        "smallText": "Mala grande personalizada e redonda",
+        "text": "A Mala Redon G é extremamente espaçosa e redonda, ideal para quem precisa de muito espaço sem abrir mão do estilo.",
+        "category": [
+            "Malas"
+        ],
+        "measure": [
+            "59x25x27cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753dc",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753dd",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753de",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753df",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753e0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242444/1_pbg7y5.jpg",
+                "altImg": "Mala esportiva azul marinho com detalhes em laranja e alças de mão e ombro ajustável marrom."
+            },
+            {
+                "_id": "68754588aa2781004e2753e1",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242448/3_odqayk.jpg",
+                "altImg": "Mala esportiva verde oliva com alças de mão e ombro ajustável verde."
+            },
+            {
+                "_id": "68754588aa2781004e2753e2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242442/2_fcy5gi.jpg",
+                "altImg": "Mala esportiva cinza com logo 'URBANA' e alças de mão e ombro ajustável cinza."
+            },
+            {
+                "_id": "68754588aa2781004e2753e3",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242434/Mala_Redon_Frente_Sem_Det_Limpa400_mjcfge.jpg",
+                "altImg": "Mala esportiva rosa com detalhes em azul e alças de mão e ombro ajustável preta."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ef",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242477/1_nk9fpb.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Mala Sport Full",
+        "smallText": "Mala esportiva personalizada e espaçosa",
+        "text": "A Mala Sport Full é espaçosa e funcional, equipada com alça de manopla para facilitar o transporte no dia a dia.",
+        "category": [
+            "Malas"
+        ],
+        "measure": [
+            "50x20x25"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753e4",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753e5",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753e6",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753e7",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753e8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242477/1_nk9fpb.jpg",
+                "altImg": "Mala esportiva preta com detalhes em couro marrom no zíper e alças de mão e ombro ajustável preta."
+            },
+            {
+                "_id": "68754588aa2781004e2753e9",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242479/2_ajznpo.jpg",
+                "altImg": "Mala esportiva azul marinho com detalhes em laranja no zíper e alças de mão e ombro ajustável preta."
+            },
+            {
+                "_id": "68754588aa2781004e2753ea",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242486/4_kisxgj.jpg",
+                "altImg": "Mala esportiva verde musgo com bolso externo e alças de mão e ombro ajustável verde."
+            },
+            {
+                "_id": "68754588aa2781004e2753eb",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242476/3_lcxifr.jpg",
+                "altImg": "Mala esportiva azul royal com alças de mão e ombro ajustável preta, levemente amassada."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f3",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742499426/4-800_qma9gi.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Mochila Robs",
+        "smallText": "Mochila de ombro",
+        "text": "A Mochila Robs possui formato retangular e diversos compartimentos, ideal para quem precisa de organização e praticidade.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "14x25x8cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753ec",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753ed",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753ee",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753ef",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753f0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742499426/4-800_qma9gi.jpg",
+                "altImg": "Mochila personalizada de ombro"
+            },
+            {
+                "_id": "68754588aa2781004e2753f1",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472382/3-400_kj09s7.jpg",
+                "altImg": "Mmochila personalizada para brindes"
+            },
+            {
+                "_id": "68754588aa2781004e2753f2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472381/1-400_g3ep2t.jpg",
+                "altImg": "mochila esportiva personalizada"
+            },
+            {
+                "_id": "68754588aa2781004e2753f3",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472380/3-400-1_poakc9.jpg",
+                "altImg": "mochila ideal para brindes personalizados"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f5",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472342/20250206_165519400_wqdvmb.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Mochila Abrt",
+        "smallText": "Mochila de ombro personalizada e prática",
+        "text": "A Mochila Robs é ideal para o dia a dia, com design de ombro que garante conforto e praticidade no transporte.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "32x43x12cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753f4",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753f5",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753f6",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753f7",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2753f8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472342/20250206_165519400_wqdvmb.jpg",
+                "altImg": "uma mochila corporativa ideal para brindes."
+            },
+            {
+                "_id": "68754588aa2781004e2753f9",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472343/20250318_162201400_cqgkas.jpg",
+                "altImg": "Uma mochila ideal para eventos, feiras e congressos "
+            },
+            {
+                "_id": "68754588aa2781004e2753fa",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472342/20250206_165447400_mkcu2c.jpg",
+                "altImg": "Uma mochila de vista de lado"
+            },
+            {
+                "_id": "68754588aa2781004e2753fb",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472344/20250318_162257400_ompaix.jpg",
+                "altImg": "Uma mochila corporativa de costas"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f7",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742522975/38400_a7fnp1.jpg",
+        "altThumbnail": "Pasta Bloco PRT personalizada com bloco interno e caneta para anotações.",
+        "title": "Pasta Bloco PRT",
+        "smallText": "Pasta personalizada com bloco e caneta",
+        "text": "A Pasta Bloco PRT é prática e completa, com caneta e bloco interno para anotações em reuniões, eventos e congressos.",
+        "category": [
+            "Pastas"
+        ],
+        "measure": [
+            "17x22x1"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2753fc",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2753fd",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2753fe",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2753ff",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275400",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742522975/38400_a7fnp1.jpg",
+                "altImg": "Uma pasta personalizada aberta"
+            },
+            {
+                "_id": "68754588aa2781004e275401",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742522976/8-2000400_bjunvs.jpg",
+                "altImg": "Uma pasta personalizada fechada"
+            },
+            {
+                "_id": "68754588aa2781004e275402",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742522975/37400_n8sclz.jpg",
+                "altImg": "Uma pasta aberta vista de cima."
+            },
+            {
+                "_id": "68754588aa2781004e275403",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742522975/36400_vtznbw.jpg",
+                "altImg": "uma pasta azul fechada"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f8",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523012/54-2000400_ymyslg.jpg",
+        "altThumbnail": "Pasta Fran personalizada horizontal, com fechamento em zíper.",
+        "title": "Pasta Fran",
+        "smallText": "Pasta horizontal personalizada com zíper",
+        "text": "A Pasta Fran possui design horizontal com zíper, proporcionando segurança e organização para documentos e materiais importantes.",
+        "category": [
+            "Pastas"
+        ],
+        "measure": [
+            "18x12x1cm",
+            "24x13x1cm",
+            "25x20x1cm",
+            "28x23x1cm",
+            "31x22x1cm",
+            "38x26x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275404",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275405",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275406",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275407",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275408",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523012/54-2000400_ymyslg.jpg",
+                "altImg": "Uma pasta feita em material de algodão"
+            },
+            {
+                "_id": "68754588aa2781004e275409",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523011/31-800400_pwyql7.jpg",
+                "altImg": "Uma pasta com ondas verdes no fundo"
+            },
+            {
+                "_id": "68754588aa2781004e27540a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523011/15-800_2_400_cjr1iy.jpg",
+                "altImg": "Uma pasta ziper personalzada com verde limão"
+            },
+            {
+                "_id": "68754588aa2781004e27540b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523011/58-800400_xe9jun.jpg",
+                "altImg": "Uma pasta ziper personalzada com vermelho"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5fb",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523132/31-2000_2_400_rvrick.jpg",
+        "altThumbnail": "Pasta Sinc executiva personalizada com alça de mão e transversal.",
+        "title": "Pasta Sinc",
+        "smallText": "Pasta executiva personalizada com alças",
+        "text": "A Pasta Sinc é uma pasta executiva com alça de mão e transversal, ideal para transportar documentos com estilo e praticidade.",
+        "category": [
+            "Pastas"
+        ],
+        "measure": [
+            "38x30x8"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27540c",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27540d",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27540e",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27540f",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275410",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523132/31-2000_2_400_rvrick.jpg",
+                "altImg": "Pasta de mão personalizada com alça transversal e de mão."
+            },
+            {
+                "_id": "68754588aa2781004e275411",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523128/1_om0tni.jpg",
+                "altImg": "Uma mala personalizada em algodão crú"
+            },
+            {
+                "_id": "68754588aa2781004e275412",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523130/31-2000_2_n400_xew5z4.jpg",
+                "altImg": "uma pasta corporativa personalizada preta"
+            },
+            {
+                "_id": "68754588aa2781004e275413",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742523128/40-800_2_400_b4z2uf.jpg",
+                "altImg": "uma pasta corporativa em algodão"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5fd",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845158/1-400_tzwlvt.jpg",
+        "altThumbnail": "Chaveiro leve em sintético personalizado",
+        "title": "Chaveiro Basic",
+        "smallText": "Chaveiro básico leve e personalizado",
+        "text": "Chaveiro básico em material sintético, leve e resistente, ideal para brindes promocionais e personalizados.",
+        "category": [
+            "Diversos",
+            "Dia da Secretária"
+        ],
+        "measure": [
+            "10x2x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275414",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275415",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275416",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275417",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275418",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845158/1-400_tzwlvt.jpg",
+                "altImg": "Chaveiro básico em material sintético"
+            },
+            {
+                "_id": "68754588aa2781004e275419",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845160/3-400-1_hrrvck.jpg",
+                "altImg": "Chaveiro leve personalizado para brindes"
+            },
+            {
+                "_id": "68754588aa2781004e27541a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845165/4-400_btfax7.jpg",
+                "altImg": "Chaveiro promocional resistente e prático"
+            },
+            {
+                "_id": "68754588aa2781004e27541b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845169/3-400_kiu9e7.jpg",
+                "altImg": "Chaveiro básico personalizado resistente"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f604",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844914/1-400_dqesvw.jpg",
+        "altThumbnail": "Porta-níquel pequeno personalizado e funcional",
+        "title": "Porta Níquel Tensage",
+        "smallText": "Porta-níquel compacto e personalizado prático",
+        "text": "Pequeno porta-níquel personalizado, ideal para guardar moedas e acessórios com praticidade e estilo.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "11x8x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27541c",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27541d",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27541e",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27541f",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275420",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844914/1-400_dqesvw.jpg",
+                "altImg": "Porta-níquel prático e leve personalizado"
+            },
+            {
+                "_id": "68754588aa2781004e275421",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844908/4-400_ys685x.jpg",
+                "altImg": "Brinde promocional: porta-níquel compacto"
+            },
+            {
+                "_id": "68754588aa2781004e275422",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844919/3-400_nrw3oc.jpg",
+                "altImg": "Porta-níquel personalizado para moedas e acessórios"
+            },
+            {
+                "_id": "68754588aa2781004e275423",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844911/3-400-1_slkiue.jpg",
+                "altImg": "Porta-níquel compacto para brindes"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f605",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844897/1-400_cx0ilr.jpg",
+        "altThumbnail": "Porta-tênis personalizado com lateral em tela",
+        "title": "Porta Tênis Espanha",
+        "smallText": "Porta-tênis personalizado com zíper frontal",
+        "text": "Porta-tênis personalizado com lateral em tela e zíper frontal, ideal para viagens e esportes.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "20x32x13cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275424",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275425",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275426",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275427",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275428",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844897/1-400_cx0ilr.jpg",
+                "altImg": "Porta-tênis prático e funcional"
+            },
+            {
+                "_id": "68754588aa2781004e275429",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844893/4-400_krqz23.jpg",
+                "altImg": "Porta-tênis para viagens e esportes"
+            },
+            {
+                "_id": "68754588aa2781004e27542a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844891/3-400-1_ms6wor.jpg",
+                "altImg": "Brinde personalizado: porta-tênis com zíper"
+            },
+            {
+                "_id": "68754588aa2781004e27542b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844895/3-400_ruw6rv.jpg",
+                "altImg": "Porta-tênis personalizado espaçoso e ventilado"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f606",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839569/3-400_slitlh.jpg",
+        "altThumbnail": "Bolsa térmica Ache",
+        "title": "Térmica Ache",
+        "smallText": "Design funcional para o dia",
+        "text": "A Térmica Ache é ideal para manter alimentos e bebidas frescos, combinando praticidade e design funcional.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            "00x00x00"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27542c",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27542d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839569/3-400_slitlh.jpg",
+                "altImg": "Vista frontal da Térmica Ache"
+            },
+            {
+                "_id": "68754588aa2781004e27542e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1744143083/4-400_le64f2.jpg",
+                "altImg": "Vista superior da Térmica Ache"
+            },
+            {
+                "_id": "68754588aa2781004e27542f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839575/3-400-1_ercj7a.jpg",
+                "altImg": "termica vista de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e275430",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839568/1-400_t9wvml.jpg",
+                "altImg": "Térmica Ache costas"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f609",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844466/3-400-1_femuz6.jpg",
+        "altThumbnail": "Bolsa térmica Line G",
+        "title": "Térmica Line G",
+        "smallText": "Capacidade ideal para o dia",
+        "text": "A Térmica Line G possui amplo espaço interno e ótimo isolamento, ideal para transportar refeições completas com segurança.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275431",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275432",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844466/3-400-1_femuz6.jpg",
+                "altImg": "Vista frontal da Line G"
+            },
+            {
+                "_id": "68754588aa2781004e275433",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844464/1-400_nw4o8z.jpg",
+                "altImg": "uma térmica preta com alça"
+            },
+            {
+                "_id": "68754588aa2781004e275434",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844470/3-400_ydxkam.jpg",
+                "altImg": "Térmica Line G vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e275435",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844466/3-400-1_femuz6.jpg",
+                "altImg": "Uso da Line G preta"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60d",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844600/1-400_b82ebz.jpg",
+        "altThumbnail": "Bolsa térmica JL",
+        "title": "Térmica JL",
+        "smallText": "Estilo casual e moderno",
+        "text": "A Térmica JL traz um visual moderno e leve, com capacidade ideal para o transporte diário de alimentos.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275436",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275437",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844600/1-400_b82ebz.jpg",
+                "altImg": "Bolsa térmica personalizada"
+            },
+            {
+                "_id": "68754588aa2781004e275438",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844602/3-400-1_agkeo5.jpg",
+                "altImg": "bolsa térmica corporativa vista de lado"
+            },
+            {
+                "_id": "68754588aa2781004e275439",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844595/4-400_o1ebl9.jpg",
+                "altImg": "bolsa térmica brinde vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e27543a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844601/3-400_txaza7.jpg",
+                "altImg": "Uma Bolsa térmica Azul vista de costas"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f611",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330901/1-400_gh2fv5.jpg",
+        "altThumbnail": "um porta bloco preto com uma caneta",
+        "title": "Porta Bloco Pap",
+        "smallText": "Prático, moderno, funcional, brinde, impacto.",
+        "text": "O Porta Bloco Pap acompanha caneta, possui um design moderno para o dia a dia. Perfeito para destacar sua marca com elegância.",
+        "category": [
+            "Porta Blocos"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27543b",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27543c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330902/3-400_lb6hiw.jpg",
+                "altImg": "um porta bloco azul aberto com uma caneta"
+            },
+            {
+                "_id": "68754588aa2781004e27543d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330901/4-800_ewmzai.jpg",
+                "altImg": "um porta bloco preto fechado"
+            },
+            {
+                "_id": "68754588aa2781004e27543e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330900/3-400-1_q2cwm7.jpg",
+                "altImg": "um porta bloco verde água visto na lateral com uma caneta"
+            },
+            {
+                "_id": "68754588aa2781004e27543f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330944/4-800_xxorap.jpg",
+                "altImg": "um porta bloco marrom visto de cima"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5cf",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789726/bolsa-trip-congresso_1_ale1bh.jpg",
+        "altThumbnail": "Uma bolsa preta de frente",
+        "title": "Bolsa Trip",
+        "smallText": "Bolsa elegante, resistente e confortável..",
+        "text": "Esta necessaire oferece diversas divisórias internas para armazenar itens essenciais com praticidade. Permite a aplicação de logos, cores e mensagens institucionais, reforçando a identidade da marca.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "53x33x22cm, 30x18x12cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275440",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275441",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275442",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275443",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275444",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275445",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789727/bolsa-trip-p_1_v2pwjd.jpg",
+                "altImg": "Uma bolsa vermelha "
+            },
+            {
+                "_id": "68754588aa2781004e275446",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789726/bolsa-trip-congresso_1_ale1bh.jpg",
+                "altImg": "Bolsa preta de frente"
+            },
+            {
+                "_id": "68754588aa2781004e275447",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789726/bolsa-trip-congresso_3_mdl9ln.jpg",
+                "altImg": "Uma bolsa preta de lado"
+            },
+            {
+                "_id": "68754588aa2781004e275448",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789727/bolsa-trip-p_3_fiegms.jpg",
+                "altImg": "Bolsa vermelha de costas"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d4",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789714/bolsa_praia_4_ykmymm.jpg",
+        "altThumbnail": "Uma bolsa translúcida com itens de higiene internos",
+        "title": "Bolsa Praia Miu",
+        "smallText": "Bolsa translúcida ampla e prática.",
+        "text": "A Bolsa Praia Miu é ampla e prática, feita em material plástico translúcido, perfeita para carregar seus itens na praia com estilo.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm",
+            "10x10x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275449",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27544a",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27544b",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e27544c",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27544d",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27544e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789714/bolsa_praia_4_ykmymm.jpg",
+                "altImg": "Bolsa em translúcida de frente com itens de higiene dentro"
+            },
+            {
+                "_id": "68754588aa2781004e27544f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789713/bolsa_praia_2_munz6s.jpg",
+                "altImg": "Bolsa em plástico translúcido e azul"
+            },
+            {
+                "_id": "68754588aa2781004e275450",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789713/bolsa_praia_1_qecjac.jpg",
+                "altImg": "Bolsa em plástico translúcido"
+            },
+            {
+                "_id": "68754588aa2781004e275451",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789714/bolsa_praia_3_djna7f.jpg",
+                "altImg": "Bolsa translúcida de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5db",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888747/Necessaire-ps_1_zlwoxe.jpg",
+        "altThumbnail": "uma necessaire dourado",
+        "title": "Necessaire PS",
+        "smallText": "Necessaire com múltiplas divisórias internas.",
+        "text": "A Necessaire PS oferece organização máxima, com diversas divisórias internas para acomodar seus itens de forma prática e acessível.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "10x15x3cm, 10x18x3cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275452",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275453",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275454",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e275455",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275456",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275457",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888747/Necessaire-ps_1_zlwoxe.jpg",
+                "altImg": "Uma necessaire pink com algumas maquiagens "
+            },
+            {
+                "_id": "68754588aa2781004e275458",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888742/Necessaire-ps_4_rld6d3.jpg",
+                "altImg": "uma necessaire preta com cartão"
+            },
+            {
+                "_id": "68754588aa2781004e275459",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888750/Necessaire-ps_3_xyj1gd.jpg",
+                "altImg": "Uma necessaire dourada"
+            },
+            {
+                "_id": "68754588aa2781004e27545a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741888745/Necessaire-ps_2_xzklmv.jpg",
+                "altImg": "Uma necessaire azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e1",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741971574/1_g7b1a5.jpg",
+        "altThumbnail": "Um pequena estojo em sintético",
+        "title": "Estojo Mlt",
+        "smallText": "Estojo fino, leve e prático.",
+        "text": "O Estojo MLT é compacto e discreto, perfeito para carregar pequenos itens com praticidade no dia a dia.",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "23x11x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27545b",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27545c",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27545d",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27545e",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27545f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741971574/1_g7b1a5.jpg",
+                "altImg": "uma estojo aberto"
+            },
+            {
+                "_id": "68754588aa2781004e275460",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741971573/2_sjgfod.jpg",
+                "altImg": "Um estojo verde musgo azul fechado"
+            },
+            {
+                "_id": "68754588aa2781004e275461",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741971573/4_qilcww.jpg",
+                "altImg": "um estojo azul e preto"
+            },
+            {
+                "_id": "68754588aa2781004e275462",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741971572/3_u5nhcz.jpg",
+                "altImg": "uma estojo amarelo fechado"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e3",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741976680/1_anc3k4.jpg",
+        "altThumbnail": "Um estojo personalizado azul com amarelo",
+        "title": "Estojo Sl",
+        "smallText": "Estojo multiuso para escola ou higiene.",
+        "text": "O Estojo SL é versátil e espaçoso, perfeito para armazenar lápis, réguas, material escolar ou itens de higiene com praticidade.",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "19x5x8cm",
+            "22x5x8cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275463",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275464",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275465",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275466",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275467",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741976680/1_anc3k4.jpg",
+                "altImg": "Pequeno azul e verde com bolsa na frente"
+            },
+            {
+                "_id": "68754588aa2781004e275468",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741976681/3_ye5j1o.jpg",
+                "altImg": "Estojo visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e275469",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741976503/2_xqvy2y.jpg",
+                "altImg": "Um estojo com itens escolares"
+            },
+            {
+                "_id": "68754588aa2781004e27546a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741976504/4_dbmktl.jpg",
+                "altImg": "Um estojo de tela"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e4",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741977769/1_zsrill.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Estojo Tri",
+        "smallText": "Estojo triangular compacto e estiloso.",
+        "text": "O Estojo Tri tem design triangular e compacto, ideal para armazenar pequenos itens com estilo e praticidade.",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "21x9x7cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27546b",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27546c",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27546d",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27546e",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27546f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741977769/1_zsrill.jpg",
+                "altImg": "Estojo vermelho triangular"
+            },
+            {
+                "_id": "68754588aa2781004e275470",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741977777/4_xgkpp3.jpg",
+                "altImg": "Estojo laranja visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e275471",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741977775/3_oo7s7h.jpg",
+                "altImg": "Um estojo verde visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e275472",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741977771/2_v51fru.jpg",
+                "altImg": "Um estojo bege com ziper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e6",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741989100/4_kixlmp.jpg",
+        "altThumbnail": "Uma carteira semiaberta",
+        "title": "Carteira RR",
+        "smallText": "Carteira personalizada prática e funcional",
+        "text": "A Carteira RR combina design funcional e praticidade, oferecendo espaço ideal para armazenar cartões e dinheiro no dia a dia.",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "11x9xcm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275473",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275474",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275475",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275476",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275477",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741989100/4_kixlmp.jpg",
+                "altImg": "Estojo vermelho triangular"
+            },
+            {
+                "_id": "68754588aa2781004e275478",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741989100/1_qdsyzl.jpg",
+                "altImg": "Estojo laranja visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e275479",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741989100/3_xc8dhn.jpg",
+                "altImg": "Um estojo verde visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e27547a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741989100/2_uoxrxm.jpg",
+                "altImg": "Um estojo bege com ziper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f0",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472234/1_dler8g.jpg",
+        "altThumbnail": "Mochila verde com zíper lateral e alça preta, vista lateral em perspectiva.",
+        "title": "Mochila ESJ",
+        "smallText": "Mochila escolar personalizada e funcional",
+        "text": "A Mochila ESJ é ideal para material escolar, oferecendo espaço organizado e conforto para o dia a dia dos estudantes.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "2x35x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27547b",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27547c",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27547d",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27547e",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27547f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472234/1_dler8g.jpg",
+                "altImg": "Mochila verde com zíper lateral e alça preta, vista lateral em perspectiva."
+            },
+            {
+                "_id": "68754588aa2781004e275480",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472235/3-1_obo5ic.jpg",
+                "altImg": "Mochila verde com alça preta na parte superior, vista frontal."
+            },
+            {
+                "_id": "68754588aa2781004e275481",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472233/4_umknt5.jpg",
+                "altImg": "Mochila azul com zíper lateral e detalhe em azul claro, vista lateral."
+            },
+            {
+                "_id": "68754588aa2781004e275482",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472234/3_mo2vmi.jpg",
+                "altImg": "Mochila azul com alças ajustáveis e detalhe em azul claro nas costas, vista traseira."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f6",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742491929/mochila_sacola_lonita_cru400_q9rfiq.jpg",
+        "altThumbnail": "Sacola de algodão cru com desenhos de animais marinhos",
+        "title": "Mochila sacola",
+        "smallText": "Mochila esportiva personalizada e funcional",
+        "text": "A Mochila Sacola é esportiva e leve, perfeita para carregar seus itens com conforto e praticidade em qualquer atividade.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "30x30x1",
+            "34x42x1cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275483",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275484",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275485",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275486",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275487",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742491929/mochila_sacola_lonita_cru400_q9rfiq.jpg",
+                "altImg": "Sacola de algodão cru com desenhos de animais marinhos em preto e branco."
+            },
+            {
+                "_id": "68754588aa2781004e275488",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472443/3-400_zsivli.jpg",
+                "altImg": "Sacola laranja com cordão preto e estampa azul com as iniciais 'MP'."
+            },
+            {
+                "_id": "68754588aa2781004e275489",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472443/1-400_tdmvsp.jpg",
+                "altImg": "Sacola verde camuflada com escudo branco e inscrição 'EXÉRCITO DA FLORA FOM' em preto."
+            },
+            {
+                "_id": "68754588aa2781004e27548a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472442/3-400-1_uyluhh.jpg",
+                "altImg": "Sacola preta com cordão preto, estampa amarela de escudo com asas e duas estrelas amarelas acima."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f601",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844993/1-400_gk6qsa.jpg",
+        "altThumbnail": "Minibag personalizada e leve para brindes",
+        "title": "Minibag PST",
+        "smallText": "Minibag leve prática e personalizada",
+        "text": "Pequena bolsa de mão personalizada, leve e prática, ideal para brindes e eventos promocionais.",
+        "category": [
+            "Diversos", "Dia das secretárias"
+        ],
+        "measure": [
+            "15x7x3cm",
+            "20x12x5cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27548b",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27548c",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27548d",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27548e",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27548f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844993/1-400_gk6qsa.jpg",
+                "altImg": "Bolsa de mão pequena e prática"
+            },
+            {
+                "_id": "68754588aa2781004e275490",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844995/3-400_drlz95.jpg",
+                "altImg": "Minibag funcional para eventos e brindes"
+            },
+            {
+                "_id": "68754588aa2781004e275491",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845001/3-400-1_l9h869.jpg",
+                "altImg": "Minibag personalizada ideal para eventos"
+            },
+            {
+                "_id": "68754588aa2781004e275492",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844991/4-400_pvcxkt.jpg",
+                "altImg": "Bolsa pequena personalizada e prática"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60f",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844550/1-400_zknli6.jpg",
+        "altThumbnail": "Bolsa térmica Quad",
+        "title": "Térmica Quad",
+        "smallText": "Formato quadrado, muito espaço",
+        "text": "A Térmica Quad possui formato quadrado e estrutura robusta, ideal para armazenar refeições completas com praticidade.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275493",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275494",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844550/1-400_zknli6.jpg",
+                "altImg": "Térmica personalizada cinza de frente"
+            },
+            {
+                "_id": "68754588aa2781004e275495",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844546/3-400-1_fxuxqf.jpg",
+                "altImg": "térmica personalizada roxa"
+            },
+            {
+                "_id": "68754588aa2781004e275496",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844543/3-400_gvifnz.jpg",
+                "altImg": "térmica personalizada laranja brinde"
+            },
+            {
+                "_id": "68754588aa2781004e275497",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844549/4-400_bsoj6z.jpg",
+                "altImg": "bolsa personalizada lateral"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f610",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330945/1-400_fpengv.jpg",
+        "altThumbnail": "um porta bloco marrom com uma caneta na lateral",
+        "title": "Porta Bloco Frr",
+        "smallText": "Sofisticação, praticidade, brinde, organização, estilo.",
+        "text": "Organize suas anotações com praticidade usando o Porta Bloco Frr. Ideal para reuniões, treinamentos e brindes corporativos",
+        "category": [
+            "Porta Blocos"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275498",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275499",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330945/1-400_fpengv.jpg",
+                "altImg": "um porta bloco marrom fechado com uma caneta na lateral"
+            },
+            {
+                "_id": "68754588aa2781004e27549a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330944/3-400_ihe1hv.jpg",
+                "altImg": "um porta bloco visto de lado"
+            },
+            {
+                "_id": "68754588aa2781004e27549b",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330945/1-400_fpengv.jpg",
+                "altImg": "um porta bloco marrom visto de cima com uma caneta"
+            },
+            {
+                "_id": "68754588aa2781004e27549c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330944/4-800_xxorap.jpg",
+                "altImg": "um porta bloco marrom aberto"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f612",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330853/4-800_cuzcl2.jpg",
+        "altThumbnail": "um porta bloco marrom",
+        "title": "Porta Bloco Bxt",
+        "smallText": "Prático, moderno, funcional, brinde, impacto.",
+        "text": "Bloco de anotações pequeno e prático, perfeito para o cotidiano. Personalize com sua marca e torne cada anotação uma lembrança do seu negócio.",
+        "category": [
+            "Porta Blocos"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27549d",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27549e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330853/4-800_cuzcl2.jpg",
+                "altImg": "um porta bloco fechado"
+            },
+            {
+                "_id": "68754588aa2781004e27549f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330853/1-400_jugjhz.jpg",
+                "altImg": "um porta bloco fechado visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2754a0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330852/3-400_klssuc.jpg",
+                "altImg": "um porta bloco preto visto na lateral"
+            },
+            {
+                "_id": "68754588aa2781004e2754a1",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1745330852/3-400-1_dp6bim.jpg",
+                "altImg": "um porta bloco aberto visto de cima"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ce",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752524236/alca-400_vpi9pg.jpg",
+        "altThumbnail": "uma pequena bolsa de ombro",
+        "title": "S-bag",
+        "smallText": "Sholder bag prática com bolso.",
+        "text": "A S-Bag é uma shoulder bag moderna e funcional, com bolso frontal para acesso rápido, ideal para eventos e brindes corporativos.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães",
+            "Dia das secretárias"
+        ],
+        "measure": [
+            "11x18x05"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754a2",
+                "arrow": "northwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754a3",
+                "arrow": "northeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754a4",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754a5",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754a6",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2754a7",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754a8",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754a9",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1752524236/alca-400_vpi9pg.jpg",
+                "altImg": "Uma linda necessaira cinza e rosa"
+            },
+            {
+                "_id": "68754588aa2781004e2754aa",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789736/s-bag_3_juwqoa.jpg",
+                "altImg": "uma necessaire laranja vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2754ab",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789736/s-bag_1_eglwx6.jpg",
+                "altImg": "Uma necessaire preta e cinza de costas"
+            },
+            {
+                "_id": "68754588aa2781004e2754ac",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789736/s-bag_2_rajqgn.jpg",
+                "altImg": "Uma necessaire laranja de lado"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d2",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789710/bolsa_praia_3_pqm9ag.jpg",
+        "altThumbnail": "Uma Ecobag com alça preta",
+        "title": "Bolsa Praia Duo",
+        "smallText": "Bolsa de juta rústica e sofisticada.",
+        "text": "A Bolsa Praia Duo combina estilo e resistência, feita em juta para um visual rústico e sofisticado, perfeita para brindes e eventos.",
+        "category": [
+            "Bolsas",
+            "Dia das Mães"
+        ],
+        "measure": [
+            "46x32x12,5cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754ad",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754ae",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754af",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2754b0",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754b1",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754b2",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789710/bolsa_praia_3_pqm9ag.jpg",
+                "altImg": "Aqui vai um alt atribute"
+            },
+            {
+                "_id": "68754588aa2781004e2754b3",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789710/bolsa_praia_2_bnf4ic.jpg",
+                "altImg": "uma ecobag em algodão"
+            },
+            {
+                "_id": "68754588aa2781004e2754b4",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789710/bolsa_praia_4_ad4lpy.jpg",
+                "altImg": "Uma Bolsa Azul"
+            },
+            {
+                "_id": "68754588aa2781004e2754b5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741789710/bolsa_praia_1_z7tny9.jpg",
+                "altImg": "Uma Bolsa de algodão com a alça preta"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d5",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741891404/3_chd80m.jpg",
+        "altThumbnail": "Uma necessaire dourado",
+        "title": "Necessaire Vani Duo",
+        "smallText": "Necessaire espaçosa e funcional.",
+        "text": "A Necessaire Vani Duo oferece amplo espaço para organização, perfeita para brindes corporativos e uso no dia a dia.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "22x17x05cm",
+            "26x18x07cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754b6",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754b7",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754b8",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2754b9",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754ba",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754bb",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741891404/3_chd80m.jpg",
+                "altImg": "Uma necessaire dourada"
+            },
+            {
+                "_id": "68754588aa2781004e2754bc",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741891401/2_og3nsh.jpg",
+                "altImg": "uma necessaire de lona com base azul"
+            },
+            {
+                "_id": "68754588aa2781004e2754bd",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741891398/1_fhy8bi.jpg",
+                "altImg": "uma necessaire de lona com base laranja"
+            },
+            {
+                "_id": "68754588aa2781004e2754be",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741891396/4_wpjkfi.jpg",
+                "altImg": "uma necessaire de lona com base laranja"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5d9",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887710/Necessaire-Gran-201104_4_eaxbs7.jpg",
+        "altThumbnail": "Uma necessaire em algodão com zíper pink",
+        "title": "Necessaire Gran",
+        "smallText": "Necessaire de algodão versátil e prática.",
+        "text": "A Necessaire Gran é feita de algodão, ideal para uso geral, combinando praticidade e um toque natural para o dia a dia.",
+        "category": [
+            "Necessaires"
+        ],
+        "measure": [
+            "20x11x4cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754bf",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754c0",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754c1",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2754c2",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754c3",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754c4",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887714/Necessaire-Gran-201104_1_md0h4z.jpg",
+                "altImg": "Uma necessaire de algodão"
+            },
+            {
+                "_id": "68754588aa2781004e2754c5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887712/Necessaire-Gran-201104_2_xfyobo.jpg",
+                "altImg": "Uma necessaire vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2754c6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887710/Necessaire-Gran-201104_4_eaxbs7.jpg",
+                "altImg": "uma necessaire de algodão com zíper pink"
+            },
+            {
+                "_id": "68754588aa2781004e2754c7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741887708/Necessaire-Gran-201104_3_acyuah.jpg",
+                "altImg": "Uma necessaire de algodão de frente"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5df",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741964322/Estojo_Mil_Clear_-_Casco_preto_-_aberto400_wve1rt.jpg",
+        "altThumbnail": "Uma necessaire aberta cheia maquiagem",
+        "title": "Estojo Miu Clear",
+        "smallText": "Necessaire masculina ampla e prática.",
+        "text": "",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "20x13x3cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754c8",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754c9",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754ca",
+                "arrow": "up"
+            },
+            {
+                "_id": "68754588aa2781004e2754cb",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754cc",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754cd",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741964322/Estojo_Mil_Clear_-_Casco_preto_-_aberto400_wve1rt.jpg",
+                "altImg": "Uma necessaire aberta cheia maquiagem"
+            },
+            {
+                "_id": "68754588aa2781004e2754ce",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741964323/Estojo_Mil_Clear_-_Matelasse_-_Frente_-_vazia400_eqbq8s.jpg",
+                "altImg": "Necessaire em sintético com visor de plástico transparente"
+            },
+            {
+                "_id": "68754588aa2781004e2754cf",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741964322/Estojo_Mil_Clear_-_Azul_piscina_-_frente400_k2dziv.jpg",
+                "altImg": "Necessaire azul em sintético com visor de plástico transparente"
+            },
+            {
+                "_id": "68754588aa2781004e2754d0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741964322/Estojo_Mil_Clear_-_Ny_600_-_Azul_Marinho_-_Lateral400_pc38nn.jpg",
+                "altImg": "uma necessaire cinza de lateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e2",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741973911/1_fxu7ew.jpg",
+        "altThumbnail": "Um pequena estojo em sintético",
+        "title": "Estojo Neo",
+        "smallText": "Estojo espaçoso e versátil.",
+        "text": "O Estojo Neo é amplo e funcional, ideal para organizar materiais escolares, de escritório ou acessórios com praticidade.",
+        "category": [
+            "Estojos"
+        ],
+        "measure": [
+            "20x10x8cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754d1",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754d2",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754d3",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754d4",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754d5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741973911/1_fxu7ew.jpg",
+                "altImg": "pequeno azul e verde com bolsa na frente"
+            },
+            {
+                "_id": "68754588aa2781004e2754d6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741973910/3_udpi7c.jpg",
+                "altImg": "Um estojo com bolso frontal"
+            },
+            {
+                "_id": "68754588aa2781004e2754d7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741973909/2_qinmym.jpg",
+                "altImg": "Um estojo de azul de costas"
+            },
+            {
+                "_id": "68754588aa2781004e2754d8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741973913/4_ykb6xh.jpg",
+                "altImg": "um estojo visto de ateral"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e8",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741996207/Porta_Documento_ADV_Bor_2_400_dncd36.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Porta Documento ADV Borges",
+        "smallText": "Porta-documento personalizado e funcional",
+        "text": "O Porta Documento Borges tem espaço ideal para cartões, dinheiro e documentos, garantindo organização e praticidade no dia a dia.",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "9x13cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754d9",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754da",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754db",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754dc",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754dd",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741996207/Porta_Documento_ADV_Bor_2_400_dncd36.jpg",
+                "altImg": "Estojo vermelho triangular"
+            },
+            {
+                "_id": "68754588aa2781004e2754de",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741996206/Porta_Documento_Adv_Bor_-_Veneza_Azul_Marinho400_wrs8jk.jpg",
+                "altImg": "Estojo laranja visto de lateral"
+            },
+            {
+                "_id": "68754588aa2781004e2754df",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741996206/Porta_Documento_Adv_Bor_-_Preto_-_aberto400_b9coyn.jpg",
+                "altImg": "Um estojo verde visto de cima"
+            },
+            {
+                "_id": "68754588aa2781004e2754e0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741996206/Porta_Documento_Adv_Bor_-_Preto400_skq86e.jpg",
+                "altImg": "Um estojo bege com ziper azul"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5e9",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741992728/4_quz2os.jpg",
+        "altThumbnail": "Um estojo triangular vermelho",
+        "title": "Porta Cartão Adv",
+        "smallText": "Porta-cartão personalizado com compartimentos",
+        "text": "O Porta Cartão Adv mantém seus cartões organizados com praticidade, contando com múltiplos compartimentos para maior funcionalidade.",
+        "category": [
+            "Carteiras"
+        ],
+        "measure": [
+            "8x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754e1",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754e2",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754e3",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754e4",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754e5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741992728/4_quz2os.jpg",
+                "altImg": "Uma carteira aberta com cartões, e dinheiro"
+            },
+            {
+                "_id": "68754588aa2781004e2754e6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741992729/3_zjy5wi.jpg",
+                "altImg": "Carteira Abeta e fechada"
+            },
+            {
+                "_id": "68754588aa2781004e2754e7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741992726/1_xhbd1y.jpg",
+                "altImg": "Carteira de costas"
+            },
+            {
+                "_id": "68754588aa2781004e2754e8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741992726/2_cnwfgr.jpg",
+                "altImg": "carteira com dinheiro e cartão"
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ed",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242457/2_huincu.jpg",
+        "altThumbnail": "Mala esportiva cinza com detalhes em preto, zíper e alças de mão e ombro vista de frente",
+        "title": "Mala RR",
+        "smallText": "Mala personalizada espaçosa e redonda",
+        "text": "A Mala Redon tem design amplo e redondo, oferecendo espaço de sobra para transportar seus pertences com praticidade.",
+        "category": [
+            "Malas"
+        ],
+        "measure": [
+            "48x29x19cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754e9",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754ea",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754eb",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754ec",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754ed",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242457/2_huincu.jpg",
+                "altImg": "Mala de viagem verde militar com detalhes em couro marrom, duas alças de mão, zíper lateral e frontal com detalhe laranja, vista lateral."
+            },
+            {
+                "_id": "68754588aa2781004e2754ee",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242456/1_mzpoyn.jpg",
+                "altImg": "Mala de viagem verde militar com detalhes em couro marrom, alças de mão e zíper frontal."
+            },
+            {
+                "_id": "68754588aa2781004e2754ef",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242457/2_huincu.jpg",
+                "altImg": "Mala de viagem verde militar com detalhes em couro marrom, duas alças de mão e zíper frontal com detalhe laranja, vista frontal."
+            },
+            {
+                "_id": "68754588aa2781004e2754f0",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742242456/1_mzpoyn.jpg",
+                "altImg": "Mala de viagem verde militar com detalhes em couro marrom, duas alças de mão e zíper frontal com detalhe laranja, vista superior."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5f2",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472206/Mochila_Citroen_-_ny_600_-_Verde_Musgo_-_frente400_wfrs6c.jpg",
+        "altThumbnail": "Mochila transversal verde oliva com detalhe laranja e alça preta.",
+        "title": "Mochila Citroen",
+        "smallText": "Mochila transversal personalizada e confortável",
+        "text": "A Mochila Citroen tem design transversal moderno, garantindo praticidade e conforto para transportar seus pertences com segurança.",
+        "category": [
+            "Mochilas"
+        ],
+        "measure": [
+            "30x34x13cm",
+            "28x40x16cm",
+            "30x45x16cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754f1",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754f2",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754f3",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754f4",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754f5",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472206/Mochila_Citroen_-_ny_600_-_Verde_Musgo_-_frente400_wfrs6c.jpg",
+                "altImg": "Mochila transversal verde oliva com detalhe laranja e alça preta."
+            },
+            {
+                "_id": "68754588aa2781004e2754f6",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472208/Mochila_Citroen_preto_TNT_frente400_e0rg96.jpg",
+                "altImg": "Mochila transversal preta com detalhe azul e inscrição 'Seja a Diferença' em branco"
+            },
+            {
+                "_id": "68754588aa2781004e2754f7",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472207/Mochila_Citroen_ny_600_pink_-costas400_wtcbyd.jpg",
+                "altImg": "Mochila transversal rosa vibrante, vista lateral em perspectiva."
+            },
+            {
+                "_id": "68754588aa2781004e2754f8",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742472206/20250317_105532400_hblfat.jpg",
+                "altImg": "Mochila transversal preta com zíper amarelo e detalhe em preto, vista lateral."
+            }
+        ],
+        "studioBrin": [
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ajuste_nfgbvr.jpg",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259637/corpo_rbjefv.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/bolso_r8lw84.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/ziper_fmos2f.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/vivo_kbvjo9.png",
+            "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1741259636/alca_wypzfa.png"
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f5ff",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845072/1-400_jhs14y.jpg",
+        "altThumbnail": "Kit de higiene amplo personalizado",
+        "title": "Kit Higiene SP",
+        "smallText": "Kit de higiene amplo personalizado",
+        "text": "Kit de higiene amplo e personalizado, com diversos itens internos, ideal para viagens e eventos corporativos.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "13x16x3cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e2754f9",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e2754fa",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e2754fb",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e2754fc",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e2754fd",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845072/1-400_jhs14y.jpg",
+                "altImg": "Kit completo para brindes corporativos"
+            },
+            {
+                "_id": "68754588aa2781004e2754fe",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845077/3-400_revddq.jpg",
+                "altImg": "Brinde personalizado de higiene completo"
+            },
+            {
+                "_id": "68754588aa2781004e2754ff",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845070/4-400_by5h9x.jpg",
+                "altImg": "Kit higiene personalizado para viagens"
+            },
+            {
+                "_id": "68754588aa2781004e275500",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845068/3-400-1_xlogvz.jpg",
+                "altImg": "Kit amplo e prático para eventos"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f600",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845033/1-400_p301rj.jpg",
+        "altThumbnail": "Tag de identificação personalizada para malas",
+        "title": "Lugagge Tag",
+        "smallText": "Tag de identificação personalizada prática",
+        "text": "Tag de identificação personalizada para viagens, prática e resistente, ideal para malas e mochilas.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "7x12cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275501",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e275502",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e275503",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e275504",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275505",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845033/1-400_p301rj.jpg",
+                "altImg": "Tag resistente e prática para viagens"
+            },
+            {
+                "_id": "68754588aa2781004e275506",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845031/3-400_ikmjwg.jpg",
+                "altImg": "Luggage tag personalizada e funcional"
+            },
+            {
+                "_id": "68754588aa2781004e275507",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845035/3-400-1_r7kkjw.jpg",
+                "altImg": "Tag identificadora para malas e mochilas"
+            },
+            {
+                "_id": "68754588aa2781004e275508",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742845025/4-400_pswkfx.jpg",
+                "altImg": "Tag personalizada para viagens seguras"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f602",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844980/3-400_tbeddz.jpg",
+        "altThumbnail": "Kit organizador personalizado para viagens",
+        "title": "Organizador de Viagem",
+        "smallText": "Kit com 3 organizadores práticos",
+        "text": "Kit com 3 organizadores personalizados, ideal para manter roupas e acessórios organizados durante viagens.",
+        "category": [
+            "Diversos"
+        ],
+        "measure": [
+            "29x19x9cm",
+            "32x23x10cm",
+            "39x30x10cm"
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275509",
+                "arrow": "southwest"
+            },
+            {
+                "_id": "68754588aa2781004e27550a",
+                "arrow": "southeast"
+            },
+            {
+                "_id": "68754588aa2781004e27550b",
+                "arrow": "botton"
+            },
+            {
+                "_id": "68754588aa2781004e27550c",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27550d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844980/3-400_tbeddz.jpg",
+                "altImg": "Kit organizador personalizado para viagens"
+            },
+            {
+                "_id": "68754588aa2781004e27550e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844970/1-400_l7tb0n.jpg",
+                "altImg": "Organizadores personalizados para roupas e acessórios"
+            },
+            {
+                "_id": "68754588aa2781004e27550f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844977/3-400-1_e5nckh.jpg",
+                "altImg": "Kit de organizadores para malas"
+            },
+            {
+                "_id": "68754588aa2781004e275510",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844973/4-400_snhmtd.jpg",
+                "altImg": "Organizadores de viagem personalizados e compactos"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f608",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839471/1-400_rvihb5.jpg",
+        "altThumbnail": "Uma Bolsa térmica vista de frente",
+        "title": "Térmica Bau",
+        "smallText": "Compacta, prática e eficiente",
+        "text": "A Térmica Bau tem formato retangular e estrutura firme, perfeita para armazenar marmitas ou bebidas.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275511",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275512",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839471/1-400_rvihb5.jpg",
+                "altImg": "Uma Bolsa Térmica Vermelha"
+            },
+            {
+                "_id": "68754588aa2781004e275513",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839474/3-400_dnz2e0.jpg",
+                "altImg": "Uma Bolsa Térmica vista de costas"
+            },
+            {
+                "_id": "68754588aa2781004e275514",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1744143855/4-400_vecwdv.jpg",
+                "altImg": "Uma Bolsa Térmica vista de cima"
+            },
+            {
+                "_id": "68754588aa2781004e275515",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742839470/3-400-1_v0yucy.jpg",
+                "altImg": "Uma Bolsa Térmica vista de lado"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60a",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844518/53-2000_wfa9xu.jpg",
+        "altThumbnail": "Bolsa térmica Sand",
+        "title": "Térmica Sand",
+        "smallText": "Ideal para uso na praia",
+        "text": "A Térmica Sand combina estilo e eficiência térmica, perfeita para levar pequenos lanches e bebidas",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275516",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275517",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844518/53-2000_wfa9xu.jpg",
+                "altImg": "Uma térmica vermelha"
+            },
+            {
+                "_id": "68754588aa2781004e275518",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844523/termica_sand_cinza_e_verde_costas_e0hrb9.jpg",
+                "altImg": "Térmica vista de costas"
+            },
+            {
+                "_id": "68754588aa2781004e275519",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844511/Bolsa_t%C3%A9rmica_Sand_-_Ny_360_-_Azul_Royal_-_frente_y4b8fn.jpg",
+                "altImg": "Uma pequena térmica bolsa azul"
+            },
+            {
+                "_id": "68754588aa2781004e27551a",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844520/termica_sand_cinza_e_verde_lateral_ekplly.jpg",
+                "altImg": "uma térmica azul personalizada"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60b",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844489/3-400-1_lrnhq2.jpg",
+        "altThumbnail": "Bolsa térmica Trip",
+        "title": "Térmica Trip",
+        "smallText": "Para viagens e longos passeios",
+        "text": "A Térmica Trip é a companhia perfeita para quem viaja, oferecendo espaço e isolamento térmico por longas horas.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e27551b",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e27551c",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844489/3-400-1_lrnhq2.jpg",
+                "altImg": "Bolsa térmica Trip em viagem"
+            },
+            {
+                "_id": "68754588aa2781004e27551d",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1744145097/4-400_ykhk4j.jpg",
+                "altImg": "Vista lateral da Térmica Trip"
+            },
+            {
+                "_id": "68754588aa2781004e27551e",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844487/3-400_zzq7ry.jpg",
+                "altImg": "Bolsa térmica Trip vermelha"
+            },
+            {
+                "_id": "68754588aa2781004e27551f",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844483/1-400_enipjg.jpg",
+                "altImg": "uma bolsa térmica preta com detalhes amarelos"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60c",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844623/4-800_pghxz9.jpg",
+        "altThumbnail": "Bolsa térmica Ger azul",
+        "title": "Térmica Ger",
+        "smallText": "Praticidade com ótimo acabamento",
+        "text": "A Térmica Ger une praticidade no transporte com um acabamento resistente, ideal para praias e festas profissionais ou casuais.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275520",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275521",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844623/4-800_pghxz9.jpg",
+                "altImg": "Térmica Ger azul"
+            },
+            {
+                "_id": "68754588aa2781004e275522",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844620/3-400-1_rjwwxo.jpg",
+                "altImg": "uma térmica creme com vermelho"
+            },
+            {
+                "_id": "68754588aa2781004e275523",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844618/3-400_ayhvco.jpg",
+                "altImg": "uma térmica creme vista de lado"
+            },
+            {
+                "_id": "68754588aa2781004e275524",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844615/1-400_r8p9to.jpg",
+                "altImg": "Uma térmica reta vista de frente"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6811039905457bd8c1a3f60e",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844572/1-400_cfve1e.jpg",
+        "altThumbnail": "Bolsa térmica Miu",
+        "title": "Térmica Miu",
+        "smallText": "Tamanho compacto, grande eficiência",
+        "text": "A Térmica Miu é compacta e leve, mantendo os alimentos frescos por horas com um visual discreto e elegante.",
+        "category": [
+            "Térmicas"
+        ],
+        "measure": [
+            ""
+        ],
+        "printing": [
+            {
+                "_id": "68754588aa2781004e275525",
+                "arrow": "center"
+            }
+        ],
+        "gallery": [
+            {
+                "_id": "68754588aa2781004e275526",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844572/1-400_cfve1e.jpg",
+                "altImg": "Bolsa térmica  personalizada preta"
+            },
+            {
+                "_id": "68754588aa2781004e275527",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844570/3-400_sxrybn.jpg",
+                "altImg": "Bolsa térmica verde "
+            },
+            {
+                "_id": "68754588aa2781004e275528",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844579/4-800_kgxzxh.jpg",
+                "altImg": "Bolsa térmica azul brinde"
+            },
+            {
+                "_id": "68754588aa2781004e275529",
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1742844575/3-400-1_dvafoc.jpg",
+                "altImg": "Bolsa térmica amarela personalizada"
+            }
+        ],
+        "like": 0
+    },
+    {
+        "_id": "6851736ec0666ba0c68f7f3c",
+        "title": "Bag Max",
+        "smallText": "Brinde moderno, útil e personalizável",
+        "text": "A Bag Max é o brinde ideal para ações promocionais e fidelização de clientes. Compacta, moderna e com ótimo espaço interno, ela garante praticidade no dia a dia. Possui alça ajustável e três compartimentos com zíper, perfeita para personalização com sua marca. Surpreenda seus clientes com um brinde útil, versátil e com alto valor percebido.",
+        "category": [
+            "Bolsas",
+            "Dia dos Professores"
+        ],
+        "measure": [
+            "17x24x6cm"
+        ],
+        "printing": [
+            {
+                "arrow": "center",
+                "_id": "6851736ec0666ba0c68f7f3d"
+            }
+        ],
+        "gallery": [
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1750166131/bag-max_5_unqr2r.jpg",
+                "altImg": "uma pequena bolsa preta vista de frente",
+                "_id": "6851736ec0666ba0c68f7f3e"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1750166131/bag-max_6_jythnj.jpg",
+                "altImg": "uma bolsa vermelha vista de ângulo",
+                "_id": "6851736ec0666ba0c68f7f3f"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1750166131/bag-max_1_gcx6bu.jpg",
+                "altImg": "Uma pequena bolsa vermelha vista de cima",
+                "_id": "6851736ec0666ba0c68f7f40"
+            },
+            {
+                "img": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1750166132/bag-max_3_hnwulr.jpg",
+                "altImg": "Uma pequena bolsa preta vista de costas",
+                "_id": "6851736ec0666ba0c68f7f41"
+            }
+        ],
+        "like": 0,
+        "__v": 0,
+        "altThumbnail": "Uma pequena Bolsa vermelha vista de angulo",
+        "thumbnail": "https://res.cloudinary.com/dnr3wfqyy/image/upload/v1750166131/bag-max_6_jythnj.jpg"
+    }
+]
